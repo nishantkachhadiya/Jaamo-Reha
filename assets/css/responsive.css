@@ -1,0 +1,5355 @@
+@media screen and (min-width: 992px) {
+    .dropdown-submenu {
+        display: block !important;
+    }
+    .service_page .menu-nav ul li.has-submenu .dropdown-submenu {
+        transform: scaleX(1);
+    }
+}
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+    .container,
+    .day_and_time_section .container,
+    .contact_card_section .container,
+    .kurs_slider_section .container {
+        max-width: 1140px;
+    }
+}
+@media screen and (min-width: 1441px) and (max-width: 1530px) {
+    .container,
+    .day_and_time_section .container,
+    .contact_card_section .container,
+    .kurs_slider_section .container{
+        max-width: 1300px;
+    }
+}
+@media screen and (min-width: 1531px) and (max-width: 1800px) {
+    .container,
+    .day_and_time_section .container,
+    .contact_card_section .container,
+    .contact_form_section .container,
+    .kurs_slider_section .container {
+        max-width: 1400px;
+    }
+}
+@media screen and (min-width: 1801px) {
+    .container{
+        max-width: 1670px;
+    }
+    .gewinnspiel-section .container, .mitglied-werden-section .container {
+        max-width: 1740px;
+    }
+    .haufig-gestellt-section .container{
+        max-width: 1800px;
+    }
+
+}
+@media screen and (min-width: 1801px) {
+    .container{
+        max-width: 1670px;
+    }
+    .gewinnspiel-section .container, .mitglied-werden-section .container {
+        max-width: 1740px;
+    }
+    .haufig-gestellt-section .container{
+        max-width: 1800px;
+    }
+
+}
+
+@media screen and (max-width: 1800px) {
+    .ihr-gesundheits-content{
+        margin-left: 0;
+        max-width: 815px;
+    }
+    .common-section-title h2{
+        font-size: 90px;
+    }
+    .four-icon-owl.owl-carousel .owl-nav button.owl-next {
+        right: -6%;
+    }
+    .four-icon-owl.owl-carousel .owl-nav button.owl-prev {
+        left: -6%;
+    }
+    .bewertungen-left-col {
+        width: 900px;
+    }
+    .bewertungen-right-col {
+        width: calc(100% - 900px);
+    }
+    .bewertungen-circle-shape{
+        right: -310px;
+    }
+    .bewertungen-section-title .common-section-title-shape {
+        top: -17px;
+        left: -3px;
+    }
+    .online-analyse-left-col {
+        width: 600px;
+    }
+    .online-analyse-right-col {
+        width: calc(100% - 600px);
+    }
+    .online-analyse-content{
+        max-width: 605px;
+    }
+    .online-analyse-img:after{
+        max-width: 350px;
+        height: 350px;
+    }
+    .online-analyse-img:before{
+        top: 80px;
+        right: -60px;
+        max-width: 100px;
+        height: 100px;
+    }
+    .wie-fit-sind-image-block{
+        max-width: 550px;
+    }
+    .wit-sind-img:after{
+        max-width: 550px;
+        height: 550px;
+    }
+    .wie-fit-sind-content-block {
+        max-width: 660px;
+    }
+    .wie-fit-sind-title .common-section-title-shape {
+        top: -20px;
+    }
+    .mitglied-werden-right-col {
+        width: calc(100% - 650px);
+    }
+    .mitglied-werden-left-col {
+        width: 650px;
+    }
+    .mitglied-werden-img{
+        max-width: 550px;
+    }
+    .mitglied-werden-img:after{
+        width: 600px;
+        height: 600px;
+        left: -70px;
+        bottom: -80px;
+    }
+    .mitglied-werden-small-img{
+        max-width: 280px;
+        bottom: -50px;
+        right: -100px;
+    }
+    .mitglied-werden-content-block{
+        max-width: 578px;
+    }
+    .mitglied-werden-sub-title h3 {
+        font-size: 50px;
+    }
+    .gewinnspiel-left-col{
+        width: 700px;
+    }
+    .gewinnspiel-right-col {
+        width: calc(100% - 700px);
+    }
+    .gewinnspiel-content-box{
+        max-width: 500px;
+    }
+    .gewinnspiel-title .common-section-title-shape{
+        top: -21px;
+    }
+    .schon-gewusst-left-col {
+        width: 580px;
+    }
+    .schon-gewusst-right-col {
+        width: calc(100% - 580px);
+    }
+    .schon-gewusst-content-block{
+        max-width: 670px;
+    }
+    .schon-gewusst-title .common-section-title-shape {
+        left: -40px;
+        top: -25px;
+    }
+    .ct_accordion_wrap{
+        padding: 0 15px;
+    }
+    .faq-accordion-block{
+        margin: 0 -15px;
+    }
+    .ct_accordion_lable h3{
+        padding: 25px 60px 25px 25px;
+    }
+    .haufig-gestellt-title .common-section-title-shape {
+        top: -15px;
+        left: -5px;
+    }
+    .dein-erster-circle-shape{
+        right: 80px;
+        width: 200px;
+        height: 200px;
+    }
+    .dein-erster-box{
+        padding: 25px 70px 40px;;
+    }
+    .dein-erster-sub-title h3{
+        font-size: 65px;
+    }
+    .footer-right-col{
+        padding-left: 90px;
+    }
+    .ihr_sec_common_section{
+        margin-top: 170px;
+    }
+    .home-banner-section .common_section_inner_title{
+        margin-top: 50px;
+    }
+    .common_section_inner_title p{
+        margin-bottom: 0px;
+        margin-top: 100px;
+        font-size: 90px;
+    }
+    .sun_and_time_contain .sun_icon p, .sun_and_time_contain .moon_icon p {
+        font-size: 38px;
+    }
+    .day_name .vertical_line{
+        margin: 0 32px;
+    }
+
+    .contact_card_detail h3{
+        margin: 20px 0 30px;
+    }
+
+    .kurse_innser_slider {
+        margin-top: 100px;
+    }
+    .service_contain_list ul li p{
+        font-size: 22px;
+    }
+    .service_right_contain_section{
+        padding-left: 130px;
+    }
+    /*----------- Inner Wir Empfehlen Section Start -------------*/
+    .inner_title_wir h3 {
+        font-size: 60px;
+    }
+    .inner_wir_contnet_col {
+        width: calc(100% - 750px);
+        padding: 50px 0;
+    }
+    .inner_wir_image_col {
+        width: 750px;
+    }
+    .inner_wir_empfehlen_box {
+        align-items: unset;
+    }
+    .inner_wir_image{
+        height: 100%;
+    }
+    .wir_inner_product {
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+    }
+    .inner_wir_image:after {
+        right: -8px;
+        max-width: 215px;
+    }
+    .inner_wir_empfehlen_section{
+        padding-top: 230px;
+    }
+    /*----------- Inner Wir Empfehlen Section Close -------------*/
+
+    /*----------- Studio page Start -------------*/
+    .gesundheits_title h2{
+        font-size: 85px;
+    }
+    .gesundheits_info_inner p{
+        max-width: 700px;
+    }
+    .gesundheits_iiner_img, .gesundheits_iiner_img img{
+        width: 500px;
+        height: 500px;
+    }
+    .gesundheits_bottom_img {
+        position: absolute;
+        bottom: -2.3%;
+        right: -13.3%;
+        max-width: 459px;
+    }
+    .unser_team_section {
+        padding-top: 135px;
+    }
+    .unser_team_inner_section {
+        margin-top: 100px;
+    }
+    .unser_team_member_details .team_member_img {
+        width: 185px;
+        height: 185px;
+    }
+    .team_member_info h4{
+        font-size: 20px;
+        margin: 30px 0 10px;
+    }
+    .team_member_info h4{
+        padding: 10px 15px;
+    }
+    .team_member_info p{
+        font-size: 16px;
+    }
+    .unser_team_inner_section .col:nth-child(n+6) {
+        margin-top: 80px;
+    }
+    .gellerie_slider_pad {
+        padding-left: 12%;
+    }
+    .gellerie_slider,
+    .studio_page .praimary_bg_color{
+        padding-top: 150px;
+    }
+    /*----------- Studio page Close -------------*/
+
+}
+
+@media screen and (max-width: 1600px) {
+    .menu-nav ul li + li {
+        margin-left: 30px;
+    }
+    .menu-nav-block {
+        margin-right: 0;
+    }
+    .home-circle-shape4{
+        bottom: 140px;
+        right: 200px;
+    }
+    .home-circle-shape3{
+        bottom: 22px;
+        left: 100px;
+        width: 200px;
+        height: 200px;
+    }
+    .home-circle-shape2{
+        left: 250px;
+    }
+    .next-arrow{
+        bottom: 40px;
+    }
+    .home-banner-content h1{
+        font-size: 140px;
+    }
+    .home-banner-content h1 span{
+        font-size: 110px;
+    }
+    .home-banner-content{
+        max-width: 450px;
+    }
+    .ihr-gesundheits-image-hold{
+        max-width: 600px;
+        min-height: 600px;
+    }
+    .ihr-gesundheits-img-shape{
+        bottom: -14px;
+        right: -115px;
+    }
+    .common-section-title h2 {
+        font-size: 80px;
+    }
+    .ihr-gesundheits-content{
+        max-width: 730px;
+    }
+    .ihr-gesundheits-content .common-desc, .ihr-gesundheits-content .common-section-btn{
+        padding-left: 90px;
+    }
+    .common-section-title-shape {
+        position: absolute;
+        top: -22px;
+        left: 8px;
+    }
+    .ihr-dots-shape{
+        max-width: 300px;
+    }
+    .four-icon-owl.owl-carousel .owl-nav button.owl-next {
+        right: -30px;
+    }
+    .four-icon-owl.owl-carousel .owl-nav button.owl-prev {
+        left: -30px;
+    }
+    .online-analyse-left-col {
+        width: 500px;
+    }
+    .online-analyse-right-col {
+        width: calc(100% - 500px);
+    }
+    .online-analyse-content {
+        max-width: 540px;
+    }
+    .online-analyse-img:after {
+        left: -80px;
+        max-width: 300px;
+        height: 300px;
+    }
+    .online-analyse-image-block{
+        padding-left: 80px;
+    }
+    .online-analyse-img:before {
+        top: 70px;
+        right: -40px;
+        max-width: 80px;
+        height: 80px;
+    }
+    .online-analyse-title .common-section-title-shape {
+        top: -25px;
+        left: -42px;
+    }
+    .wie-fit-sind-content-block {
+        max-width: 590px;
+    }
+    .wie-fit-sind-title .common-section-title h2:before{
+        top: -50px;
+        right: -110px;
+        width: 120px;
+        height: 110px;
+    }
+    .wie-fit-sind-image-block {
+        max-width: 450px;
+        top: 5%;
+    }
+    .wit-sind-img:after {
+        max-width: 450px;
+        height: 450px;
+    }
+    .wie-fit-sind-section{
+        padding: 80px 0 180px;
+    }
+    .wie-fit-sind-title .common-section-title-shape {
+        top: -20px;
+        left: -8px;
+    }
+    .wie-fit-sind-shape{
+        max-width: 350px;
+    }
+    .mitglied-werden-title .common-section-title-shape {
+        position: absolute;
+        top: -20px;
+        left: -4px;
+    }
+    .mitglied-werden-img:after {
+        width: 500px;
+        height: 500px;
+        left: -50px;
+        bottom: -60px;
+    }
+    .mitglied-werden-img {
+        max-width: 450px;
+    }
+    .mitglied-werden-left-col {
+        width: 530px;
+    }
+    .mitglied-werden-right-col {
+        width: calc(100% - 530px);
+    }
+    .mitglied-werden-left-circle-shape{
+        max-width: 500px;
+    }
+    .gewinnspiel-title .common-section-title-shape {
+        top: -25px;
+        left: -44px;
+    }
+    .ge-sub-title h3{
+        font-size: 40px;
+    }
+    .gewinnspiel-content-box .common-desc p{
+        font-size: 25px;
+    }
+    .gewinnspiel-left-col  {
+        width: 55%;
+    }
+    .gewinnspiel-right-col {
+        width: 45%;
+    }
+    .wheel--box .wheel--box-inner{
+        min-width: 100%;
+        max-width: 500px;
+    }
+    .spinner-img{
+        padding: 30px;
+    }
+    .gewinnspiel-content-box {
+        max-width: 435px;
+    }
+    .schon-gewusst-left-col {
+        width: 500px;
+    }
+    .schon-gewusst-right-col {
+        width: calc(100% - 500px);
+    }
+    .schon-gewusst-section{
+        padding-top: 16%;
+    }
+    .schon-gewusst-circle-shape {
+        position: absolute;
+        left: -250px;
+        bottom: -75px;
+        max-width: 500px;
+    }
+    .ct_accordion_lable h3 {
+        padding: 20px 60px 20px 20px;
+    }
+    .ct_accordion_info {
+        padding: 0px 20px 60px;
+    }
+    .ct_bg_box{
+        border-radius: 20px;
+    }
+    .ct_accordion_lable span{
+        top: 20px;
+    }
+    .ct_accordion_lable.ct_visiable span{
+        top: 33px;
+    }
+    .dein-erster-title h2{
+        font-size: 80px;
+    }
+    .dein-erster-sub-title h3 {
+        font-size: 55px;
+    }
+    .form-details{
+        max-width: 850px;
+    }
+    .footer-left-col {
+        width: 450px;
+    }
+    .footer-right-col {
+        width: calc(100% - 450px);
+    }
+    .footer-map iframe {
+        height: 450px;
+    }
+    .footer-col-2{
+        padding: 0 25px;
+    }
+    .footer-circle-2{
+        top: 287px;
+        left: 127px;
+    }
+    .news_details2,
+    .news_details3,
+    .news_details4,
+    .ruckruf_section,
+    .gellerie_slider,
+    .studio_page .praimary_bg_color{
+        padding-top: 120px;
+    }
+
+    /*-------------- Conrtact page Css Start -------------*/
+    .common_section_inner_title p{
+        font-size: 75px;
+        margin-top: 45px;
+        margin-bottom: 15px;
+    }
+    .inner_common_banner .home-circle-shape3 {
+        bottom: 0px;
+    }
+    .contact_banner img{
+        width: 80%;
+        border-radius: 50px;
+    }
+    .inner_common_banner .home-circle-shape2{
+        width: 90px;
+        height: 90px;
+        top: 370px;
+        left: 45px;
+    }
+
+    .ihr_sec_common_section {
+        margin-top: 145px;
+    }
+    .common_inner_section_title h2{
+        font-size: 75px;
+    }
+    .inner_common_banner .common-section-title-shape {
+        top: -25px;
+        left: -32px;
+        max-width: 90px;
+    }
+    .ihr_sec_common_section {
+        padding: 15px 0px 96px;
+    }
+    .sun_and_time_contain .sun_icon p,
+    .sun_and_time_contain .moon_icon p {
+        font-size: 34px;
+    }
+    .day_name .vertical_line {
+        margin: 0 30px;
+    }
+    .day_list_section {
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+    .day_and_time_section .ihr-dots-shape img{
+        width: 80%;
+    }
+    .contact_card_detail h3{
+        font-size: 32px;
+        margin: 20px 0 30px;
+    }
+
+    .contact_card_detail .card_address{
+        font-size: 22px;
+    }
+    .ihr-dots-line-shape img,
+    .ihr-dots-line-shape3 img{
+        width: 80%;
+    }
+    .card_last_height{
+        min-height: 99px;
+    }
+    .contact_inner_section .row {
+        margin: 0 -40px;
+    }
+    .contact_inner_section .col-md-4 {
+        padding: 0 40px;
+    }
+    .socail_card_icon a svg{
+        width: 50px;
+    }
+
+    .contact_form_section{
+        margin-top: -65px;
+    }
+    .contact_sub_title{
+        font-size: 30px;
+        margin-bottom: 50px;
+    }
+    .contact_main_form{
+        padding: 120px 200px 100px;
+    }
+    .contact_sub_title {
+        margin-bottom: 40px;
+        margin-top: 8px;
+    }
+    /*-------------- Conrtact page Css End -------------*/
+
+    /*-------------- News page Css Start -------------*/
+    .news_page_contain{
+        padding-top: 50px;
+    }
+    .news_common_title h3{
+        font-size: 30px;
+    }
+    .news_common_title p{
+        font-size: 22px;
+    }
+    .news_details {
+        margin: 30px 0px;
+    }
+    .ruckuf_inner_section {
+        padding: 30px 70px 50px;
+    }
+    .ruckuf_inner_section h2{
+        font-size: 80px;
+    }
+    .ruckuf_inner_section p{
+        font-size: 65px;
+        margin: 10px 0 30px;
+    }
+    .hand_mens {
+        width: 200px;
+        height: 200px;
+    }
+    .hand_mens svg{
+        max-width: 87%;
+        margin-right: -36px;
+        margin-top: -6px;
+    }
+    .news_page_contain .ihr-dots-line-shape{
+        right: -20%;
+    }
+    .ihr-dots-line-shape3 {
+        right: -24%;
+        bottom: -6%;
+    }
+    /*-------------- News page Css End -------------*/
+
+    /*-------------- Kurs page Css Start -------------*/
+    .kurse_inner_table_section {
+        margin-top: 70px;
+    }
+    .kurse_table_detail_section {
+        padding-top: 70px;
+    }
+    .kurse_first_title_section ul li a{
+        font-size: 16px;
+    }
+    .kures_day_table_details .table thead tr td a{
+        font-size: 22px;
+    }
+
+    .cp_left {
+        padding-left: 6%;
+    }
+    .kurse_innser_slider {
+        margin-top: 80px;
+    }
+    .kurse_innser_slider .owl-carousel .owl-nav{
+        margin-top: 100px;
+        left: -3%;
+    }
+    .kurs_page .praimary_bg_color{
+        padding-top: 220px;
+    }
+    .Personlich_section {
+        bottom: -110px;
+    }
+    .Personlich_section .ruckuf_inner_section span{
+        font-size: 16px;
+        max-width: 880px;
+    }
+
+    .services_banner_contain span{
+        max-width: 835px;
+        font-size: 17px;
+    }
+    .services_banner_contain p{
+        margin-bottom: 15px;
+    }
+    .service_page .common_section_inner_title p {
+        margin-top: 5px;
+    }
+    /*-------------- Kurs page Css End -------------*/
+
+    /*-------------- Services page Css End -------------*/
+    .service_right_contain_section .common_inner_section_title h2{
+        width: 375px;
+    }
+    .service_right_contain_section{
+        padding-left: 130px;
+    }
+    .service2 .service_right_contain_section{
+        padding-left: 50px;
+    }
+    .service_right_contain_section .common_inner_section_title h2 p {
+        margin-top: -20px;
+    }
+    .service_contain_list ul li + li {
+        margin-top: 15px;
+    }
+    .service_contain_list {
+        margin: 35px 0;
+    }
+    .service_blog_btn {
+        margin-top: 35px;
+    }
+    .services_number p {
+        font-size: 200px;
+    }
+    .services_number{
+        bottom: -90px;
+    }
+    .service2 .service_left_img .services_number{
+        top: -110px;
+    }
+    .service_contain_list ul li p {
+        font-size: 20px;
+    }
+    .service2,
+    .service3 {
+        padding-top: 200px;
+    }
+    /*-------------- Services page Css End -------------*/
+
+    /*-------------- Services page Css Start -------------*/
+    .inner_page_title h2{
+        font-size: 80px;
+    }
+    .service_list ul li p, .second_slider .moretext p{
+        font-size: 17px;
+    }
+    .services_left_section {
+        height: 730px;
+    }
+    .discount_price {
+        font-size: 80px;
+    }
+    .inner_wir_top_shape {
+        right: 73px;
+        top:-1px
+    }
+    .inner_wir_bottom_shape {
+        right: 9px;
+    }
+    .discount_bg {
+        max-width: 285px;
+        height: 160px;
+    }
+    .inner_point_wir p {
+        font-size: 16px;
+    }
+    .inner_wir_contnet_box {
+        margin-left: -20%;
+    }
+
+    .gesundheits_info_inner p {
+        max-width: 650px;
+        margin: 40px 0px;
+    }
+    .gellerie_img img {
+        border-radius: 45px;
+    }
+    .gellerie_section .gellerie_img {
+        margin-top: 30px;
+    }
+    .gellerie_slider_pad {
+        padding-left: 7%;
+    }
+    .gellerie_slider .owl-theme .owl-nav{
+        margin-top: 45px;
+    }
+    /*-------------- Services page Css End -------------*/
+    .offer-shape-bg {
+        top: 0px;
+    }
+
+}
+
+@media screen and (max-width: 1560px) {
+    .bewertungen-left-col {
+        width: 800px;
+    }
+    .bewertungen-right-col {
+        width: calc(100% - 800px);
+    }
+    /*-------------- Conrtact page Css Start -------------*/
+    .common_section_inner_title p{
+        margin-bottom: 5px;
+    }
+
+    .day_list_section .row{
+        margin: 0 -20px;
+    }
+    .day_list_section .col-md-6 {
+        padding: 0 20px;
+    }
+    .sun_and_time_contain .sun_icon sup, .sun_and_time_contain .moon_icon sup {
+        font-size: 18px;
+    }
+    .day_name .vertical_line {
+        margin: 0 25px;
+    }
+    .sun_and_time_contain .line {
+        margin: 0 15px;
+    }
+    .sun_and_time_contain .sun_icon p, .sun_and_time_contain .moon_icon p {
+        font-size: 30px;
+    }
+    .day_list_section .row + .row {
+        margin-top: 30px;
+    }
+    .ihr-dots-line-shape img,
+    .ihr-dots-line-shape3 img {
+        width: 68%;
+    }
+    .ihr-dots-line-shape{
+        right: -27px;
+    }
+    .icon_set{
+        width: 175px;
+        height: 175px;
+        right: -52px;
+    }
+    .message_icon {
+        bottom: -15px;
+        right: -47px;
+    }
+    /*-------------- Conrtact page Css End -------------*/
+
+    /*-------------- Kurs page Css Start -------------*/
+    .kurse_innser_slider .item{
+        padding: 35px;
+    }
+    .kurs_left_detailss {
+        margin: 25px 0px;
+    }
+    .mittler_lines span{
+        width: 30px;
+    }
+    .kurs_page_shape{
+        top: 38%;
+        right: -16%;
+    }
+    .kurs_page .inner_common_banner .home-circle-shape2{
+        top: 22%;
+    }
+    .inner_wir_empfehlen_section {
+        padding-top: 180px;
+    }
+    .ruckuf_inner_section .beratun_title {
+        font-size: 70px;
+    }
+    /*-------------- Kurs page Css End -------------*/
+}
+
+@media screen and (max-width: 1530px) {
+    .contact_inner_section .col-md-4 {
+        padding: 0px 30px;
+    }
+    .contact_inner_section .row {
+        margin: 0px -30px;
+    }
+
+    .gesundheits_bottom_img {
+        bottom: -2.3%;
+        right: -14.3%;
+        max-width: 459px;
+    }
+    .gellerie_slider_pad {
+        padding-left: 9%;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .logo-hold img {
+        max-width: 125px;
+    }
+    .menu-nav ul li + li {
+        margin-left: 20px;
+    }
+    .miglied-btn-block a{
+        min-width: 180px;
+    }
+    .home-circle-shape3 {
+        bottom: 20px;
+        left: 80px;
+        width: 200px;
+        height: 200px;
+    }
+    .home-circle-shape4 {
+        bottom: 140px;
+        right: 150px;
+        width: 130px;
+        height: 130px;
+    }
+    .home-circle-shape2{
+        width: 80px;
+        height: 80px;
+        left: 180px;
+    }
+    .ihr-gesundheits-section{
+        margin-top: 80px;
+    }
+    .common-section-title h2 {
+        font-size: 70px;
+    }
+    .ihr-gesundheits-content {
+        max-width: 600px;
+    }
+    .common-section-title-shape{
+        top: -29px;
+        left: -38px;
+    }
+    .ihr-gesundheits-image-block{
+        top: -110px;
+    }
+    .bewertungen-section-title .common-section-title-shape {
+        top: -29px;
+        left: -7px;
+    }
+    .bewertungen-circle-shape {
+        right: -330px;
+    }
+    .bewertungen-left-col {
+        width: 750px;
+    }
+    .bewertungen-right-col {
+        width: calc(100% - 750px);
+        padding-left: 25px;
+    }
+    .bewertungen-box .common-desc:after{
+        right: 30px;
+    }
+    .bewertungen-box .common-desc:before{
+        left: 30px;
+    }
+    .online-analyse-content {
+        max-width: 490px;
+    }
+    .wie-fit-sind-content-block {
+        max-width: 521px;
+    }
+    .wie-fit-sind-title .common-section-title-shape {
+        top: -30px;
+        left: -2px;
+    }
+    .mitglied-werden-title .common-section-title-shape {
+        top: -26px;
+        left: -4px;
+    }
+    .mitglied-werden-image-block{
+        padding-left: 0;
+    }
+    .mitglied-werden-left-col {
+        width: 450px;
+    }
+    .mitglied-werden-right-col {
+        width: calc(100% - 450px);
+    }
+    .mitglied-werden-content-block {
+        max-width: 462px;
+    }
+    .mitglied-werden-sub-title h3 {
+        font-size: 40px;
+    }
+    .mitglied-werden-content-block .common-desc p{
+        font-size: 20px;
+    }
+    .wheel--box .wheel--box-inner{
+        max-width: 450px;
+    }
+    .gewinnspiel-title .common-section-title-shape {
+        top: -33px;
+        left: -40px;
+    }
+    .wheel--button a{
+        width: 125px;
+        height: 125px;
+    }
+    .gewinnspiel-left-col:after{
+        top: -103px;
+        left: -100px;
+        max-width: 500px;
+    }
+    .spinner-img:after{
+        width: 280px;
+        height: 50px;
+    }
+    .ge-small-star{
+        bottom: -50px;
+        right: 80px;
+    }
+    .schon-gewusst-left-col {
+        width: 450px;
+    }
+    .schon-gewusst-right-col {
+        width: calc(100% - 450px);
+    }
+    .wir-empfehlen-title h3{
+        font-size: 35px;
+    }
+    .wir-empfehlen-right-col{
+        width: calc(100% - 190px);
+        padding-left: 35px;
+    }
+    .wir-empfehlen-left-col {
+        width: 190px;
+    }
+    .schon-gewusst-title .common-section-title-shape {
+        left: -45px;
+        top: -30px;
+    }
+    .schon-gewusst-content-block {
+        max-width: 600px;
+    }
+    .schon-gewusst-content-block .common-desc p:after, .schon-gewusst-content-block .common-desc p:before{
+        font-size: 50px;
+    }
+    .haufig-gestellt-title .common-section-title-shape {
+        top: -20px;
+        left: -10px;
+    }
+    .dein-erster-title h2{
+        font-size: 70px;
+    }
+    .dein-erster-sub-title h3 {
+        font-size: 45px;
+    }
+    .form-details {
+        max-width: 700px;
+    }
+    .dein-erster-circle-shape {
+        right: 100px;
+        width: 180px;
+        height: 180px;
+    }
+    .footer-left-col{
+        width: 380px;
+    }
+    .footer-right-col {
+        width: calc(100% - 380px);
+        padding-left: 40px;
+    }
+    .footer-map iframe {
+        height: 380px;
+    }
+    .footer-social{
+        padding-top: 60px;
+    }
+    .news_details2,
+    .news_details3,
+    .news_details4,
+    .ruckruf_section,
+    .gellerie_slider,
+    .studio_page .praimary_bg_color{
+        padding-top: 120px;
+    }
+
+    /*-------------- Conrtact page Css Start -------------*/
+    .contact_banner img{
+        border-radius: 30px;
+    }
+    .common_section_inner_title p{
+        font-size: 70px;
+    }
+    .home-circle-shape3{
+        width: 175px;
+        height: 175px;
+        left: 145px;
+    }
+
+    .common_inner_section_title h2 {
+        font-size: 70px;
+    }
+    .inner_common_banner .common-section-title-shape {
+        top: -28px;
+        left: -30px;
+        max-width: 80px;
+    }
+    .day_list_section .row{
+        margin: 0 -20px;
+    }
+    .day_list_section .col-md-6 {
+        padding: 0 15px;
+    }
+    .day_name .vertical_line {
+        margin: 0px 15px;
+    }
+    .day_name p{
+        font-size: 22px;
+    }
+    .sun_icon svg{
+        width: 30px;
+        height: 30px;
+    }
+    .moon_icon svg{
+        width: 25px;
+        height: 27px;
+    }
+    .sun_and_time_contain .sun_icon sup, .sun_and_time_contain .moon_icon sup {
+        font-size: 16px;
+    }
+    .sun_and_time_contain .sun_icon p, .sun_and_time_contain .moon_icon p {
+        font-size: 26px;
+    }
+
+    .card_icon svg{
+        width: 80px;
+        height: 80px;
+    }
+    .contact_card_detail h3 {
+        font-size: 28px;
+        margin: 17px 0 25px;
+    }
+    .socail_card_icon a svg {
+        width: 45px;
+    }
+    .socail_card_icon a + a {
+        margin-left: 32px;
+    }
+    .card_phone_number p{
+        font-size: 22px;
+    }
+    .ihr-dots-line-shape img,
+    .ihr-dots-line-shape3 img {
+        width: 75%;
+    }
+    .ihr-dots-line-shape {
+        right: -26%;
+        top: -24%;
+    }
+    .ihr_sec_common_section{
+        padding-bottom: 80px;
+    }
+
+
+    .contact_sub_title {
+        margin-bottom: 30px;
+        margin-top: 0px;
+        font-size: 26px;
+    }
+    .contact_main_form {
+        padding: 100px 150px 100px;
+        border-radius: 60px;
+    }
+    .contact_form_section {
+        margin-top: -75px;
+    }
+    .ihr-dots-line-shape2 img{
+        width: 80%;
+    }
+    .email_message_section textarea,
+    .email_message_section input{
+        margin-top: 30px;
+    }
+    .first_input input{
+        height: 50px;
+    }
+    .email_message_section textarea{
+        height: 250px;
+    }
+    .first_input input::placeholder,
+    .email_message_section textarea::placeholder{
+        font-size: 22px;
+    }
+    /*-------------- Conrtact page Css End -------------*/
+
+    /*-------------- News page Css Start -------------*/
+    .news_details p{
+        font-size: 17px;
+    }
+    .news_details {
+        margin: 25px 0px;
+    }
+    .news_common_title h3 {
+        font-size: 28px;
+    }
+    .news_common_title p {
+        font-size: 20px;
+    }
+    .new_contain_left {
+        width: 46%;
+        padding-right: 55px;
+    }
+    .news_details2 .new_contain_left,
+    .news_details4 .new_contain_left {
+        padding-left: 55px;
+    }
+    .ruckuf_inner_section h2 {
+        font-size: 70px;
+    }
+    .ruckuf_inner_section p {
+        font-size: 58px;
+        margin: 10px 0 30px;
+    }
+    .hand_mens {
+        width: 180px;
+        height: 180px;
+    }
+    .hand_mens svg {
+        max-width: 85%;
+        margin-right: -25px;
+        margin-top: -13px;
+    }
+    .news_blog_img img{
+        border-radius: 45px;
+    }
+    /*-------------- News page Css End -------------*/
+
+    /*-------------- Kurs page Css Start -------------*/
+    .kurse_first_title_section ul li a{
+        padding: 10px 35px;
+        height: 65px;
+    }
+    .kurse_inner_table_section {
+        margin-top: 50px;
+    }
+    .kurse_table_detail_section {
+        padding-top: 50px;
+    }
+    .kures_day_table_details .table thead tr td {
+        padding-bottom: 20px;
+    }
+    .kures_day_table_details .table tr td p{
+        font-size: 16px;
+    }
+    .kures_day_table_details .table thead tr td a {
+        font-size: 20px;
+    }
+
+    .kurs_left_details{
+        margin: 20px 0px;
+    }
+    .kurse_innser_slider .item {
+        padding: 30px;
+    }
+    .kurse_minit_details p{
+        font-size: 24px;
+    }
+    .news_details .more_main{
+        margin-top: 5px;
+    }
+    .mittler_lines{
+        margin-top: 8px;
+    }
+    .kurse_slider_img {
+        height: 230px;
+    }
+    .kurse_slider_img img{
+        border-radius: 30px;
+    }
+    .kurse_slider_details h3{
+        font-size: 30px;
+    }
+    .kurse_innser_slider {
+        margin-top: 60px;
+    }
+    .kurse_innser_slider .owl-carousel .owl-nav {
+        margin-top: 80px;
+        left: -3%;
+    }
+    .mittler_detail{
+        margin: 20px 0 25px;
+    }
+    .mittler_lines span{
+        width: 30px;
+        height: 10px;
+    }
+    .kurse_slider_details {
+        padding-top: 20px;
+    }
+    .kurs_page .praimary_bg_color{
+        padding-top: 180px;
+    }
+
+    .Personlich_section {
+        bottom: -80px;
+    }
+    .Personlich_section .ruckuf_inner_section span{
+        max-width: 750px;
+    }
+
+    .kurs_page_shape{
+        top: 38%;
+        right: -16%;
+    }
+    /*-------------- Kurs page Css End -------------*/
+
+    /*-------------- Services page Css Start -------------*/
+    .services_banner_contain span {
+        max-width: 800px;
+        font-size: 16px;
+    }
+    .service_right_contain_section {
+        padding-left: 80px;
+    }
+    .service_contain_list ul li p {
+        font-size: 18px;
+    }
+    .services_number p {
+        font-size: 160px;
+    }
+    .services_number {
+        bottom: -70px;
+    }
+    .service_right_contain_section .common_inner_section_title h2 {
+        width: 340px;
+    }
+    .service_blog_btn {
+        margin-top: 30px;
+    }
+    .service_contain_list {
+        margin: 30px 0;
+    }
+    .service2 .service_right_contain_section {
+        padding-left: 30px;
+    }
+    .service2,
+    .service3 {
+        padding-top: 170px;
+    }
+    .service_left_img img {
+        border-radius: 50px;
+    }
+
+    /*----------- Inner Wir Empfehlen Section Start -------------*/
+    .inner_wir_image_col, .inner_wir_contnet_col {
+        width: 50%;
+    }
+    .inner_wir_top_shape, .inner_wir_bottom_shape {
+        max-width: 150px;
+    }
+    .inner_wir_top_shape {
+        right: 135px;
+    }
+    .inner_wir_image:after {
+        right: 7px;
+        max-width: 200px;
+    }
+    .inner_point_wir p {
+        width: 100%;
+        max-width: 210px;
+        padding-left: 5px;
+    }
+    .inner_point_wir p + p{
+        margin-left: 0;
+    }
+    .inner_wir_image img,
+    .inner_wir_empfehlen_box,
+    .inner_wir_empfehlen_box:after {
+        border-radius: 50px;
+    }
+    /*----------- Inner Wir Empfehlen Section Close -------------*/
+    /*-------------- Services page Css End -------------*/
+
+    /*-------------- studio page Css End -------------*/
+    .gesundheits_info_inner p {
+        max-width: 570px;
+        margin: 30px 0px;
+    }
+    .gesundheits_info_main{
+        justify-content: flex-start;
+    }
+    .gesundheits_iiner_img, .gesundheits_iiner_img img {
+        width: 450px;
+        height: 450px;
+    }
+    .gesundheits_bottom_img {
+        bottom: -2.6%;
+        right: -12.3%;
+        max-width: 383px;
+    }
+    .gesundheits_info_inner p{
+        font-size: 16px;
+    }
+
+    .unser_team_inner_section{
+        padding: 75px;
+    }
+    .team_member_info h4 {
+        font-size: 16px;
+        margin: 27px 0 10px;
+    }
+    .unser_team_inner_section .row{
+        margin: 0 -20px;
+    }
+    .unser_team_inner_section .col{
+        padding: 0 20px;
+    }
+    .unser_team_member_details .team_member_img {
+        width: 160px;
+        height: 160px;
+    }
+    .team_member_info p {
+        font-size: 15px;
+    }
+    .unser_team_inner_section {
+        margin-top: 75px;
+    }
+    .unser_team_section {
+        padding-top: 100px;
+    }
+    .gellerie_slider_pad {
+        padding-left: 11%;
+    }
+    .gellerie_slider .item img {
+        border-radius: 20px;
+    }
+    .ruckuf_inner_section .beratun_title {
+        font-size: 58px;
+    }
+    /*-------------- studio page Css End -------------*/
+}
+
+@media screen and (max-width: 1360px) {
+    .bewertungen-left-col {
+        width: 680px;
+    }
+    .bewertungen-right-col {
+        width: calc(100% - 680px);
+    }
+    .bewertungen-list-block{
+        padding: 80px 40px ;
+    }
+    .news_details2,
+    .news_details3,
+    .news_details4,
+    .ruckruf_section,
+    .gellerie_slider,
+    .studio_page .praimary_bg_color{
+        padding-top: 85px;
+    }
+
+    /*-------------- Conrtact page Css Start -------------*/
+    .inner_common_banner .home-circle-shape2 {
+        width: 80px;
+        height: 80px;
+        top: 350px;
+        left: 35px;
+    }
+    .common_section_inner_title p {
+        font-size: 62px;
+    }
+    .contact_banner img {
+        width: 75%;
+    }
+    .common_inner_section_title h2 {
+        font-size: 62px;
+    }
+    .inner_common_banner .common-section-title-shape {
+        top: -32px;
+        left: -22px;
+        max-width: 65px;
+    }
+    .ihr_sec_common_section {
+        margin-top: 110px;
+    }
+
+
+    .contact_inner_section .col-md-4 {
+        padding: 0px 25px;
+    }
+    .contact_inner_section .row {
+        margin: 0 -25px;
+    }
+    .contact_card_detail .card_address {
+        font-size: 20px;
+        max-width: 200px;
+    }
+
+    .contact_main_form {
+        padding: 85px 110px 85px;
+        border-radius: 50px;
+    }
+
+    /*-------------- Conrtact page Css End -------------*/
+
+    /*-------------- News page Css Start -------------*/
+    .news_common_title h3 {
+        font-size: 26px;
+    }
+    .news_common_title p {
+        font-size: 18px;
+    }
+    .news_details p {
+        font-size: 16px;
+    }
+    .news_details {
+        margin: 20px 0px;
+    }
+    .moreless-button span{
+        font-size: 17px;
+    }
+    .hand_mens {
+        width: 170px;
+        height: 170px;
+    }
+    .ruckuf_inner_section{
+        border-radius: 50px;
+    }
+    .ihr-dots-line-shape3 {
+        right: -28%;
+        bottom: -8%;
+    }
+    /*-------------- News page Css End -------------*/
+
+    /*-------------- Kurs page Css Start -------------*/
+    .kurse_innser_slider .item {
+        padding: 25px;
+    }
+    .kurse_innser_slider {
+        margin-top: 50px;
+    }
+    .kurse_innser_slider .owl-carousel .owl-nav {
+        margin-top: 65px;
+    }
+    .kurse_slider_img img {
+        border-radius: 20px;
+    }
+    .kurse_innser_slider .item{
+        border-radius: 40px;
+    }
+    .mittler_lines span{
+        width: 25px;
+        border-radius: 4px;
+    }
+    .kurse_slider_details h3 {
+        font-size: 26px;
+    }
+    .news_details {
+        margin: 15px 0px;
+    }
+    .kurse_minit_details p {
+        font-size: 22px;
+        margin-left: 15px;
+    }
+    /*-------------- Kurs page Css End -------------*/
+
+    /*-------------- Services page Css Start -------------*/
+    .service_right_contain_section .common_inner_section_title h2 {
+        width: 305px;
+    }
+    .service_contain_list ul li{
+        padding-left: 35px;
+    }
+    .service_contain_list ul li + li {
+        margin-top: 13px;
+    }
+    .services_number p {
+        font-size: 150px;
+    }
+    .service2 .service_left_img .services_number {
+        top: -84px;
+    }
+    /*-------------- Services page Css End -------------*/
+
+    /*-------------- studio page Css End -------------*/
+    .gesundheits_iiner_img, .gesundheits_iiner_img img {
+        width: 400px;
+        height: 400px;
+    }
+    .gesundheits_bottom_img {
+        right: 1.5%;
+    }
+    .gesundheits_main_img {
+        justify-content: flex-start;
+    }
+    .gellerie_slider_pad {
+        padding-left: 9%;
+    }
+    /*-------------- studio page Css End -------------*/
+}
+
+@media screen and (max-width: 1300px) {}
+
+@media screen and (max-width: 1280px) {
+    /*-------------- Conrtact page Css Start -------------*/
+    .inner_common_banner .home-circle-shape3 {
+        left: 135px;
+    }
+    .gellerie_slider_pad {
+        padding-left: 6%;
+    }
+    /*-------------- Conrtact page Css End -------------*/
+}
+
+@media screen and (max-width: 1199px) {
+    .container {
+        max-width: 100%;
+    }
+    .menu-nav ul li a{
+        font-size: 18px;
+    }
+    .home-banner-content h1 {
+        font-size: 100px;
+    }
+    .home-banner-content h1 span {
+        font-size: 70px;
+    }
+    .home-banner-content {
+        max-width: 300px;
+    }
+    .cm-bounce img {
+        max-width: 30px;
+    }
+    .home-circle-shape4{
+        width: 100px;
+        height: 100px;
+    }
+    .home-circle-shape3{
+        width: 150px;
+        height: 150px;
+    }
+    .home-circle-shape2{
+        width: 70px;
+        height: 70px;
+    }
+    .home-circle-shape1{
+        top: 65px;
+        left: -70px;
+        width: 110px;
+        height: 110px;
+    }
+    .ihr-gesundheits-content {
+        max-width: 530px;
+    }
+    .common-section-title h2{
+        font-size: 60px;
+    }
+     .common-section-title-shape {
+        top: -33px;
+        left: -16px;
+        max-width: 100px;
+    }
+    .ihr-gesundheits-image-hold {
+        max-width: 530px;
+        min-height: 530px;
+    }
+    .ihr-gesundheits-img-shape {
+        bottom: -12px;
+        right: -96px;
+    }
+    .four-icon-slider-section{
+        padding: 80px 0;
+    }
+    .four-icon-slider{
+        padding: 0 25px;
+    }
+    .bewertungen-box .common-desc{
+        padding: 0 60px 30px;
+        margin-top: 30px;
+    }
+    .bewertungen-box .common-desc p{
+        max-width: 360px;
+        font-size: 20px;
+    }
+    .bewertungen-owl{
+        max-width: 530px;
+    }
+    .bewertungen-box .common-desc:after, .bewertungen-box .common-desc:before{
+        font-size: 50px;
+    }
+    .bewertungen-box .common-desc:before{
+        top: -40px;
+    }
+    .bewertungen-box .common-desc:after{
+        bottom: -30px;
+    }
+    .bewertungen-client-title h3{
+        font-size: 25px;
+        margin-bottom: 0;
+    }
+    .owl-carousel .owl-item .re-start img{
+        max-width: 110px;
+    }
+    .bewertungen-left-circle-shape{
+        bottom: 90px;
+    }
+    .bewertungen-circle-shape {
+        right: 20px;
+        max-width: 250px;
+    }
+    .bewertungen-right-col {
+        width: calc(100% - 550px);
+    }
+    .bewertungen-left-col {
+        width: 550px;
+    }
+    .bewertungen-list-block{
+        border-radius: 50px 0px 0px 50px;
+    }
+    .bewertungen-slider-block{
+        border-radius: 0 50px 50px 50px;
+    }
+    .bewertungen-section-title .common-section-title-shape {
+        top: -29px;
+        left: -3px;
+    }
+    .online-analyse-title .common-section-title-shape {
+        top: -35px;
+        left: -35px;
+    }
+    .wie-fit-sind-title .common-section-title-shape {
+        top: -30px;
+        left: 0px;
+    }
+    .wie-fit-sind-title .common-section-title h2:before {
+        top: -40px;
+        right: -70px;
+        width: 80px;
+        height: 80px;
+    }
+    .wie-fit-sind-content-block {
+        max-width: 453px;
+    }
+    .mitglied-werden-title .common-section-title-shape {
+        top: -30px;
+        left: 1px;
+    }
+    .gewinnspiel-left-col:after{
+        display: none;
+    }
+    .gewinnspiel-section{
+        padding-top: 0;
+    }
+    .gewinnspiel-title .common-section-title-shape {
+        top: -35px;
+        left: -36px;
+    }
+    .ge-sub-title h3 {
+        font-size: 30px;
+    }
+    .schon-gewusst-content-block .common-desc p{
+        max-width: 560px;
+    }
+    .schon-gewusst-left-col {
+        width: 400px;
+    }
+    .schon-gewusst-right-col {
+        width: calc(100% - 400px);
+    }
+    .schon-gewusst-title .common-section-title-shape {
+        left: -41px;
+        top: -31px;
+    }
+    .faq-col-1, .faq-col-2, .faq-col-3{
+        width: 33.33%;
+    }
+    .ct_accordion_lable h3{
+        font-size: 20px;
+    }
+    .haufig-gestellt-title .common-section-title-shape {
+        top: -28px;
+        left: 2px;
+    }
+    .dein-erster-title h2 {
+        font-size: 60px;
+    }
+    .dein-erster-sub-title h3 {
+        font-size: 40px;
+    }
+    .footer-left-col{
+        display: none;
+    }
+    .footer-right-col {
+        width: 100%;
+        padding-left: 0;
+    }
+    .footer-content-block {
+        max-width: 750px;
+        margin: 0 auto;
+    }
+    .footer-title h2 {
+        padding-left: 0;
+        text-align: center;
+        font-size: 50px;
+    }
+    .footer-circle-2 {
+        top: 200px;
+        left: 125px;
+        width: 80px;
+        height: 80px;
+    }
+    .footer-social {
+        padding-top: 50px;
+        padding-left: 30px;
+    }
+    .copy-rights-block{
+        padding-top: 30px;
+        justify-content: center;
+        text-align: center;
+    }
+   .copyright-text{
+        width: 100%;
+        order: 2;
+    }
+    .copyright-menu{
+        width: 100%;
+        padding-right: 0;
+    }
+    .footer-circle-3{
+        left: 45%;
+    }
+    .news_details2,
+    .news_details3,
+    .news_details4,
+    .ruckruf_section,
+    .unser_team_section,
+    .gellerie_slider,
+    .studio_page .praimary_bg_color {
+        padding-top: 80px;
+    }
+
+    .ihr-dots-line-shape3{
+        display: none;
+    }
+    /*-------------- Conrtact page Css Start -------------*/
+    .inner_common_banner .home-circle-shape3 {
+        left: 58px;
+        bottom: 15px;
+        width: 160px;
+        height: 160px;
+    }
+    .inner_common_banner .home-circle-shape2 {
+        width: 60px;
+        height: 60px;
+        top: 328px;
+        left: 30px;
+    }
+    .common_section_inner_title p {
+        font-size: 58px;
+    }
+    .inner_common_banner .home-circle-shape4 {
+        width: 60px;
+        height: 60px;
+        bottom: 25px;
+    }
+
+    .day_list_section .row + .row {
+        margin-top: 25px;
+    }
+    .common_inner_section_title h2 {
+        font-size: 58px;
+    }
+    .day_list_section {
+        padding-top: 45px;
+        padding-bottom: 65px;
+    }
+    .ihr_sec_common_section {
+        margin-top: 100px;
+        padding-bottom: 70px;
+    }
+    .day_name p {
+        font-size: 20px;
+    }
+    .sun_and_time_contain .sun_icon p, .sun_and_time_contain .moon_icon p {
+        font-size: 22px;
+    }
+    .sun_and_time_contain .sun_icon sup, .sun_and_time_contain .moon_icon sup {
+        top: -0.7em;
+    }
+    .day_name .vertical_line {
+        margin: 0px 10px;
+        height: 23px;
+    }
+    .moon_icon svg {
+        width: 22px;
+        height: 25px;
+    }
+    .sun_icon svg {
+        width: 27px;
+        height: 27px;
+    }
+    .sun_and_time_contain .line{
+        width: 23px;
+        margin: 0 12px;
+    }
+    .day_list_section {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+    .sun_and_time_contain .sun_icon sup, .sun_and_time_contain .moon_icon sup {
+        font-size: 14px;
+    }
+    .day_inner_list{
+        padding: 8px 15px;
+    }
+    .day_and_time_section .ihr-dots-shape img {
+        width: 70%;
+    }
+
+    .contact_card_detail{
+        border-radius: 35px;
+    }
+    .ihr-dots-line-shape{
+        display: none;
+    }
+    .contact_inner_section .col-md-4 {
+        padding: 0px 15px;
+    }
+    .contact_inner_section .row {
+        margin: 0 -15px;
+    }
+    .contact_card_detail h3 {
+        margin: 15px 0 15px;
+    }
+    .card_last_height {
+        min-height: 90px;
+    }
+    .socail_card_icon a svg {
+        width: 40px;
+    }
+    .socail_card_icon a + a {
+        margin-left: 25px;
+    }
+
+    .contact_main_form{
+        padding: 80px;
+    }
+    .form_group .round{
+        margin-top: 20px;
+    }
+    .form_group .round label:before{
+        width: 30px;
+        height: 30px;
+    }
+    .contact_btn {
+        margin-top: 35px;
+    }
+    .contact_sub_title{
+        font-size: 22px;
+    }
+    .ihr-dots-line-shape2{
+        display: none;
+    }
+    .first_input input{
+        font-size: 24px;
+    }
+    .form_group .round label:before{
+        left: 4px;
+        top: -1px;
+    }
+    .form_group .round label:after{
+        left: 9.3px;
+    }
+    .contact_form_section {
+        margin-top: -90px;
+    }
+
+    .icon_set {
+        width: 160px;
+        height: 160px;
+        right: -52px;
+    }
+    /*-------------- Conrtact page Css End -------------*/
+
+    /*-------------- News page Css Start -------------*/
+    .news_details p{
+        line-height: 1.3;
+    }
+    .new_contain_left {
+        padding-right: 35px;
+    }
+    .news_details2 .new_contain_left,
+    .news_details4 .new_contain_left {
+        padding-left: 35px;
+    }
+    .ruckuf_inner_section h2 {
+        font-size: 60px;
+    }
+    .ruckuf_inner_section p{
+        font-size: 50px;
+    }
+    .hand_mens {
+        width: 155px;
+        height: 155px;
+    }
+    .hand_mens svg {
+        max-width: 84%;
+        margin-right: -23px;
+        margin-top: -28px;
+    }
+    .ruckuf_inner_section{
+        margin-bottom: -210px;
+    }
+    .ruckuf_inner_section{
+        border-radius: 40px;
+    }
+    /*-------------- News page Css End -------------*/
+
+    /*-------------- Kurs page Css Start -------------*/
+    .kures_day_table_details .table tr{
+        height: 45px;
+    }
+    .kurse_first_title_section ul li a {
+        padding: 10px 25px;
+        height: 60px;
+    }
+    .kurse_inner_table_section {
+        margin-top: 40px;
+    }
+    .kurse_table_detail_section {
+        padding-top: 40px;
+    }
+    .kurs_table_btn{
+        margin-top: 40px;
+    }
+    .kurs_page .day_and_time_section .container{
+        max-width: 100%;
+    }
+    .cp_left{
+        padding-left: 15px;
+    }
+    .mittler_lines span {
+        width: 20px;
+        height: 9px;
+    }
+    .mittler_lines span + span {
+        margin-left: 5px;
+    }
+    .clock_imf svg{
+        width: 80%;
+    }
+    .kurse_minit_details p{
+        margin-left: 3px;
+    }
+    .kurs_left_details p {
+        font-size: 15px;
+    }
+    .kurs_page .praimary_bg_color{
+        padding-top: 150px;
+    }
+    .Personlich_section .ruckuf_inner_section span {
+        max-width: 670px;
+    }
+    .kurse_innser_slider .owl-carousel .owl-nav{
+        left: -7px;
+    }
+    /*-------------- Kurs page Css End -------------*/
+
+    /*-------------- services page Css Start -------------*/
+    .services_banner_contain p {
+        margin-bottom: 10px;
+    }
+    .services_banner_contain span{
+        max-width: 600px;
+    }
+    .service_right_contain_section {
+        padding-left: 60px;
+    }
+    .service_right_contain_section{
+        padding-right: 10px;
+    }
+    .service_contain_list ul li p {
+        font-size: 17px;
+    }
+    .services_number p {
+        font-size: 115px;
+    }
+    .services_number {
+        bottom: -53px;
+    }
+    .service_contain_list {
+        margin: 25px 0;
+    }
+    .service_right_contain_section .common_inner_section_title h2 {
+        width: 282px;
+    }
+    .service_blog_btn {
+        margin-top: 25px;
+    }
+    .service2, .service3 {
+        padding-top: 115px;
+    }
+    .service2 .service_left_img .services_number {
+        top: -58px;
+    }
+    .service_page .day_and_time_section .container{
+        max-width: 100%;
+    }
+    .service2 .service_right_contain_section {
+        padding-left: 0px;
+        padding-right: 30px;
+    }
+    .service_left_img img {
+        border-radius: 40px;
+    }
+
+
+    .inner_wir_contnet_col{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .wir_inner_product {
+        object-position: center right;
+    }
+    .inner_wir_empfehlen_section {
+        padding-top: 100px;
+    }
+    .inner_wir_contnet_box {
+        margin-left: 0%;
+    }
+    .inner_title_wir h3 {
+        font-size: 40px;
+    }
+    .inner_page_title h2 {
+        font-size: 60px;
+    }
+    .inner_point_wir p {
+        max-width: 235px;
+    }
+    .inner_wir_contnet_box .common_section_desc p {
+        font-size: 20px;
+    }
+    .discount_price {
+        font-size: 70px;
+    }
+    .up_to, .pr_off {
+        font-size: 22px;
+    }
+    .discount_bg {
+        max-width: 225px;
+        height: 130px;
+        padding-bottom: 40px;
+    }
+    /*-------------- services page Css End -------------*/
+
+    /*-------------- studio page Css Start -------------*/
+    .gesundheits_left_contain,
+    .gesundheits_right_img{
+        width: 50%;
+    }
+    .gesundheits_main_img {
+        justify-content: flex-end;
+    }
+    .gesundheits_iiner_img{
+        margin-right: 15.5%;
+    }
+    .gesundheits_bottom_img {
+        right: -0.2%;
+    }
+    .gesundheits_iiner_img, .gesundheits_iiner_img img {
+        width: 385px;
+        height: 385px;
+    }
+    .gesundheits_details .common_inner_section_title h2 {
+        font-size: 52px;
+    }
+    .gesundheits_info_inner p{
+        margin: 25px 0px;
+    }
+    .day_and_time_section .gesundheits_section .container{
+        max-width: 100%;
+    }
+    .unser_team_inner_section {
+        padding: 75px 45px;
+        border-radius: 40px;
+    }
+    .day_and_time_section .unser_team_section .container{
+        max-width: 100%;
+    }
+    .unser_team_inner_section {
+        margin-top: 50px;
+    }
+    .gellerie_img img {
+        border-radius: 35px;
+    }
+    .gellerie_section .gellerie_img {
+        margin-top: 25px;
+    }
+    .gellerie_slider_pad {
+        padding-left: 15px;
+    }
+    .gellerie_slider .owl-theme .owl-nav {
+        margin-top: 40px;
+    }
+    .gellerie_slider .item img {
+        border-radius: 15px;
+    }
+    .ruckuf_inner_section .beratun_title {
+        font-size: 50px;
+    }
+    .kurs_page .praimary_bg_color{
+        padding-bottom: 0px;
+    }
+    /*-------------- studio page Css End -------------*/
+
+}
+
+@media screen and (max-width: 1080px) {
+    .online-analyse-right-col {
+        width: calc(100% - 400px);
+    }
+    .online-analyse-left-col {
+        width: 400px;
+    }
+    .online-analyse-image-block {
+        padding-left: 50px;
+    }
+    .online-analyse-img:after {
+        left: -50px;
+        max-width: 250px;
+        height: 250px;
+    }
+    .online-analyse-img:before {
+        top: 60px;
+        right: -20px;
+        max-width: 60px;
+        height: 60px;
+    }
+    .wie-fit-sind-image-block{
+        max-width: 380px;
+        right: 80px;
+    }
+    .wit-sind-img:after {
+        max-width: 380px;
+        height: 380px;
+    }
+    .wit-sind-img:after{
+        right: -110px;
+    }
+    .wie-fit-sind-section {
+        padding: 80px 0 80px;
+    }
+    .wie-fit-sind-shape{
+        bottom: 90%;
+        right: -200px;
+        max-width: 300px;
+    }
+    .mitglied-werden-left-col {
+        width: 380px;
+    }
+    .mitglied-werden-right-col {
+        width: calc(100% - 380px);
+    }
+    .mitglied-werden-img:after {
+        width: 400px;
+        height: 400px;
+        left: -50px;
+        bottom: -50px;
+    }
+    .mitglied-werden-small-img{
+        max-width: 200px;
+        right: -80px;
+    }
+    .mi-we-left-shape-circle{
+        display: none;
+    }
+    .schon-gewusst-content-block {
+        max-width: 540px;
+    }
+    .schon-gewusst-content-block .common-desc p {
+        max-width: 510px;
+    }
+    /*-------------- Conrtact page Css Start -------------*/
+    .inner_common_banner .home-circle-shape3{
+        bottom: 30px;
+    }
+    /*-------------- Conrtact page Css End -------------*/
+}
+
+@media screen and (max-width: 991px) {
+    .menu-nav-block {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100vh;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(15px);
+        -webkit-backdrop-filter: blur(15px);
+        clip-path: circle(0px at 0 0px);
+        -webkit-clip-path: circle(0px at 0 0px);
+        transition: 0.5s ease all;
+        z-index: 999;
+        overflow-y: auto;
+        visibility: hidden;
+    }
+    .mobileopen .menu-nav-block {
+        display: block;
+        -webkit-clip-path: circle(100%);
+        visibility: visible;
+    }
+    .menu-nav{
+        width: 100%;
+        height: calc(100vh - 70px);
+        max-width: 40%;
+        transition: 0.5s ease all;
+        position: relative;
+    }
+    .menu-nav:after {
+        content: '';
+        position: absolute;
+       right: 0%;
+        top: -10%;
+        width: 756px;
+        height: 756px;
+        border-radius: 50%;
+        background-color: var(--color-1);
+    }
+    .menu-nav ul.main-ul {
+        display: flex;
+        flex-flow: column;
+
+    }
+    .menu-over{
+        max-height: 500px;
+        z-index: 1;
+        position: relative;
+    }
+    .menu-nav ul li + li {
+        margin-left: 0;
+        margin-top: 15px;
+    }
+
+    .dropdown-submenu ul li + li{
+        margin-top: 5px;
+    }
+    .menu-nav ul.main-ul > li > a{
+        color: #fff;
+        font-weight: 700;
+        font-size: 24px;
+        font-family: 'Montserrat', sans-serif;
+        padding: 3px 25px;
+        border-radius: 0 25px 25px 0;
+    }
+    .menu-nav  ul.main-ul > li.active > a,
+    .menu-nav ul.main-ul > li > a:hover{
+        background-color: var(--color-7);
+        color: #fff;
+    }
+    .menu-over #mCSB_1 .mCSB_scrollTools .mCSB_draggerRail,  .menu-over #mCSB_1 .mCSB_scrollTools .mCSB_draggerContainer,  .menu-over #mCSB_1 .mCSB_scrollTools{
+      width: 0;
+    }
+    .menu-over #mCSB_2 .mCSB_scrollTools .mCSB_draggerRail,  .menu-over #mCSB_2 .mCSB_scrollTools .mCSB_draggerContainer,  .menu-over #mCSB_2 .mCSB_scrollTools{
+        width: 6px;
+    }
+
+    .miglied-btn-block{
+        display: none;
+    }
+    .mobile-logo-hold, .mobile-display-mitglied {
+        display: block;
+    }
+    .menu-close-btn{
+        display: flex;
+    }
+    .mobile-logo-hold{
+       padding: 25px 0 40px 25px;
+        position: relative;
+        z-index: 1;
+    }
+    .menu-toggle-btn{
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        position: relative;
+        z-index: 2;
+    }
+    .mobile-display-mitglied{
+        padding: 0 25px;
+    }
+    .mobile-display-mitglied .common-large-btn {
+        background-color: var(--color-1);
+        color: #fff;
+    }
+    .dropdown-submenu {
+        position: static;
+        transform: inherit !important;
+        display: none;
+        transition: none;
+        background: transparent;
+        box-shadow: none;
+        border:0;
+        margin-top: 10px;
+    }
+    .dropdown-submenu ul{
+        max-width: 200px;
+        max-height: 95px;
+    }
+    .dropdown-submenu ul li a {
+        color: #fff;
+        padding: 0 5px;
+    }
+    .dropdown-submenu ul li {
+        width: 100%;
+        display: inline-block;
+    }
+    .home-circle-shape2{
+        left: 100px;
+    }
+    .ihr-gesundheits-section {
+        margin-top: 50px;
+    }
+    .ihr-dots-shape{
+        display: none;
+    }
+    .ihr-gesundheits-content {
+        max-width: 360px;
+    }
+    .common-section-title h2 {
+        font-size: 40px;
+    }
+    .common-section-title-shape {
+        top: -40px;
+        left: -11px;
+        max-width: 80px;
+    }
+    .ihr-gesundheits-content .common-desc, .ihr-gesundheits-content .common-section-btn  {
+        padding-left: 50px;
+        padding-top: 20px;
+    }
+    .ihr-gesundheits-content .common-desc p + p {
+        margin-top: 20px;
+    }
+    .ihr-gesundheits-image-block {
+        top: -80px;
+        right: -60px;
+    }
+    .ihr-gesundheits-image-hold {
+        max-width: 430px;
+        min-height: 430px;
+    }
+    .ihr-gesundheits-img-shape {
+        bottom: -10px;
+        right: -80px;
+    }
+    .ihr-gesundheits-section {
+        padding: 60px 0;
+    }
+    .bewertungen-right-col, .bewertungen-left-circle-shape, .bewertungen-circle-shape, .bewertungen-btn{
+        display: none;
+    }
+    .bewertungen-left-col{
+        width: 100%;
+    }
+    .bewertungen-slider-block .common-section-btn{
+        display: block;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .bewertungen-owl.owl-carousel .owl-nav{
+        top: 50%;
+        transform: translateY(-50%);
+        bottom: unset;
+        right: unset;
+        left: 0;
+        max-width: 100%;
+    }
+    .bewertungen-owl{
+        position: relative;
+    }
+    .bewertungen-owl.owl-carousel .owl-nav button.owl-next {
+        margin-right: -15%;
+    }
+    .bewertungen-owl.owl-carousel .owl-nav button.owl-prev{
+        margin-left: -15%;
+    }
+    .bewertungen-section{
+        padding: 0px 0 60px;
+    }
+    .bewertungen-slider-block .bewertungen-section-title{
+        display: block;
+        text-align: center;
+    }
+    .bewertungen-section-title .common-section-title-shape .name-hider path{
+        fill: var(--color-5);
+    }
+    .bewertungen-section-title  .common-section-title-shape .name-hider .Ebene_2 path {
+        fill: var(--color-2);
+    }
+    .bewertungen-section-title .common-section-title-shape {
+        top: -40px;
+        left: 5px;
+    }
+    .bewertungen-slider-block {
+        padding: 40px 0;
+        border-radius: 0 30px 30px 30px;
+    }
+    .bewertungen-section-title {
+        margin-bottom: 40px;
+    }
+    .online-analyse-title .common-section-title-shape {
+        top: -40px;
+        left: -35px;
+    }
+    .online-analyse-content .common-desc {
+        padding: 20px 0 30px;
+    }
+    .online-analyse-content {
+        max-width: 380px;
+    }
+    .online-analyse-section{
+        padding: 0 0 60px;
+    }
+    .wie-fit-sind-title .common-section-title-shape {
+        top: -40px;
+        left: 8px;
+    }
+    .wie-fit-sind-content-block .common-desc{
+        padding: 30px 0;
+    }
+    .wie-fit-sind-content-block {
+        max-width: 315px;
+    }
+    .wie-fit-sind-shape{
+        display: none;
+    }
+    .mitglied-werden-content-block {
+        max-width: 350px;
+    }
+    .mitglied-werden-sub-title h3 {
+        font-size: 30px;
+    }
+    .mitglied-werden-left-circle-shape {
+        max-width: 400px;
+    }
+    .mi-line{
+        height: 8px;
+        margin-bottom: 30px;
+    }
+    .mitglied-werden-content-block .common-desc {
+        padding: 20px 0;
+    }
+    .mitglied-werden-title .common-section-title-shape {
+        top: -40px;
+        left: 5px;
+    }
+    .gewinnspiel-left-col, .gewinnspiel-right-col {
+        width: 50%;
+    }
+    .gewinnspiel-content-box .common-desc p {
+        font-size: 18px;
+    }
+    .ge-sub-title h3 {
+        font-size: 22px;
+        margin-bottom: 5px;
+    }
+    .gewinnspiel-content-box .mi-line {
+        margin: 20px 0;
+        max-width: 90px;
+        height: 5px;
+    }
+    .gewinnspiel-title .common-section-title-shape {
+        top: -45px;
+        left: -30px;
+    }
+    .gewinnspiel-content-box {
+        max-width: 285px;
+    }
+    .gewinnspiel-content-block{
+        border-radius: 40px 0 0 40px;
+    }
+    .gewinnspiel-wheel-block{
+        border-radius: 0 40px 40px 0;
+    }
+    .ge-large-star{
+        min-width: auto;
+        max-width: 15px;
+        top: -60px;
+        right: -100px;
+    }
+    .ge-small-star {
+        bottom: -30px;
+        right: -30px;
+        max-width: 10px;
+    }
+    .gesub-small-star {
+        left: -25px;
+        top: 10px;
+        min-width: auto;
+        max-width: 10px;
+    }
+    .spinner-img:after{
+        bottom: -35px;
+    }
+    .schon-gewusst-left-col, .schon-gewusst-right-col {
+        width: 100%;
+    }
+    .schon-gewusst-content-block .schon-gewusst-title{
+        display: none;
+    }
+    .mobile-schon-title {
+        display: block;
+        margin-bottom: 35px;
+        padding-left: 40px;
+    }
+    .schon-gewusst-title .common-section-title-shape {
+        left: -33px;
+        top: -41px;
+    }
+    .schon-gewusst-block .online-analyse-img{
+        max-width: 550px;
+        margin: 0 auto;
+    }
+    .schon-gewusst-block .online-analyse-img:after {
+        left: -100px;
+        max-width: 400px;
+        height: 400px;
+    }
+    .schon-gewusst-block .online-analyse-img:before {
+        max-width: 100px;
+        height: 100px;
+    }
+    .schon-gewusst-content-block {
+        max-width: 100%;
+        margin-top: 35px;
+    }
+    .schon-gewusst-content-block .common-desc p{
+        max-width: 100%;
+        padding: 0 15px;
+    }
+    .schon-gewusst-content-block .common-more-btn {
+        padding: 0 15px;
+    }
+    .schon-gewusst-circle-shape{
+        display: none;
+    }
+    .schon-gewusst-content-block .common-desc p:before{
+        top: -50px;
+        left: 0;
+    }
+    .schon-gewusst-content-block .common-desc p:after {
+        right: 0;
+        bottom: -10px;
+    }
+    .wir-empfehlen-right-col{
+        padding-left: 0;
+        width: 100%;
+    }
+    .wir-empfehlen-left-col {
+        width: 100%;
+        display: flex;
+        align-items: center;
+    }
+    .wir-empfehlen-hand-ic {
+        order: 2;
+        margin-left: 15px;
+    }
+    .wir-empfehlen-hand-ic svg {
+        max-width: 50px;
+    }
+    .schon-gewusst-section {
+        padding: 20% 0 60px;
+    }
+    .faq-col-1, .faq-col-2, .faq-col-3{
+        width: 50%;
+    }
+    .haufig-gestellt-section{
+        padding: 0 0 60px;
+    }
+    .haufig-gestellt-title .common-section-title-shape {
+        top: -36px;
+        left: 6px;
+        z-index: 1;
+    }
+    .dein-erster-box{
+        border-radius: 50px;
+        padding: 25px 50px 40px;
+    }
+    .dein-erster-circle-shape {
+        right: 80px;
+        width: 150px;
+        height: 150px;
+    }
+    .dein-erster-title h2 {
+        font-size: 50px;
+    }
+    .dein-erster-sub-title h3 {
+        font-size: 30px;
+    }
+    .dein-erster-circle-shape svg{
+        margin-right: -70px;
+        margin-bottom: -40px;
+    }
+    .dein-erster-section{
+        padding-top: 20px;
+    }
+    .contact--form-main{
+        display: none;
+    }
+    .ruckruf_section,
+    .unser_team_section,
+    .gellerie_slider,
+    .studio_page .praimary_bg_color {
+        padding-top: 70px;
+    }
+
+    .news_mobile_slider .owl-nav {
+        max-width: 120px;
+        margin: 10px auto 0;
+        display: flex;
+        justify-content: space-between;
+    }
+    /*-------------- Conrtact page Css Start -------------*/
+
+    .contact_banner img {
+        border-radius: 20px;
+    }
+    .inner_common_banner .home-circle-shape2{
+        top: 306px;
+        left: 17px;
+    }
+    .day_list_section .col-md-6{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .day_list_section .row + .row {
+        margin-top: 0px;
+    }
+    .day_list_section .row .col-md-6{
+        margin-top: 20px;
+    }
+    .day_list_section {
+        padding-top: 15px;
+    }
+    .inner_common_banner .common-section-title-shape {
+        top: -35px;
+        left: -16px;
+        max-width: 54px;
+    }
+    .common_inner_section_title h2 {
+        font-size: 48px;
+    }
+    .day_and_time_section .container{
+        max-width: 720px;
+    }
+
+    .contact_card_detail{
+        padding: 25px 15px;
+        font-size: 24px;
+    }
+    .contact_card_detail .card_address {
+        font-size: 17px;
+        max-width: 170px;
+    }
+    .card_last_height {
+        min-height: 75px;
+    }
+    .card_icon svg {
+        width: 70px;
+        height: 70px;
+    }
+    .card_phone_number p {
+        font-size: 18px;
+    }
+    .socail_card_icon a + a {
+        margin-left: 17px;
+    }
+
+    .contact_main_form {
+        padding: 60px 50px;
+        border-radius: 35px;
+    }
+    .first_name_section input + input{
+        margin-left: 25px;
+    }
+    .first_input input{
+        width: 50%;
+    }
+    .email_message_section input{
+        width: 100%;
+    }
+    .contact_btn {
+        margin-top: 30px;
+    }
+    .icon_set {
+        width: 140px;
+        height: 140px;
+        right: -52px;
+    }
+    .ihr_sec_common_section{
+        margin-top: 70px;
+    }
+    /*-------------- Conrtact page Css End -------------*/
+
+    /*-------------- News page Css Start -------------*/
+    .news_page_contain .container{
+        max-width: 100%;
+    }
+    .news_blog_section{
+        flex-wrap: wrap;
+    }
+    .new_contain_left {
+        order: 2;
+        width: 100%;
+        padding: 0px;
+        padding-top: 30px;
+    }
+    .news_common_title{
+        text-align: left;
+    }
+    .news_details p{
+        text-align: left;
+    }
+    .more_main a.moreless-button{
+        justify-content: flex-start;
+    }
+    .new_contain_right {
+        order: 1;
+        width: 100%;
+    }
+    .news_blog_img img{
+        border-radius: 30px;
+    }
+    .news_details2,
+    .news_details3,
+    .news_details4{
+        padding-top: 0px;
+    }
+    .ja_d_block{
+        display: none;
+    }
+    .ja_d_none{
+        display: block;
+    }
+    .news_details2 .new_contain_left, .news_details4 .new_contain_left{
+        padding-left: 0px;
+    }
+    .news_common_title h3 {
+        font-size: 24px;
+    }
+    .news_details {
+        margin: 15px 0px;
+    }
+    .moreless-button span {
+        font-size: 16px;
+    }
+    .moreless-button span::after{
+        bottom: 3px;
+    }
+
+    .ruckuf_inner_section {
+        padding: 30px 40px 50px;
+    }
+    .hand_mens {
+        width: 130px;
+        height: 130px;
+        right: 80px;
+    }
+    .hand_mens svg {
+        max-width: 81%;
+        margin-right: -17px;
+        margin-top: -43px;
+    }
+    .ruckuf_inner_section h2 {
+        font-size: 52px;
+    }
+    .ruckuf_inner_section p {
+        font-size: 44px;
+        margin: 10px 0 20px;
+    }
+    /*-------------- News page Css End -------------*/
+
+    /*-------------- Kurs page Css Start -------------*/
+    .kurse_first_title_section ul li a {
+        padding: 10px 20px;
+        height: 55px;
+        font-size: 16px;
+    }
+    .kurs_slider_section .cp_left{
+        padding: 0 15px;
+    }
+    .kurse_innser_slider .owl-carousel .owl-nav{
+        left: unset;
+        margin-top: 50px;
+        width: 180px;
+    }
+    /*-------------- Kurs page Css End -------------*/
+
+    /*-------------- services page Css End -------------*/
+    .service_right_contain_section .common_inner_section_title h2 {
+        width: 235px;
+    }
+    .service_right_contain_section .common_inner_section_title h2 p {
+        margin-top: -15px;
+    }
+    .service_right_contain_section {
+        padding-left: 30px;
+    }
+    .service_right_contain_section {
+        padding-right: 0px;
+    }
+    .service_contain_list ul li:after{
+        top: 3px;
+        transform: unset;
+        transform: scale(0.8);
+    }
+    .service_contain_list ul li {
+        padding-left: 30px;
+    }
+    .service_contain_list {
+        margin: 20px 0;
+    }
+    .service_blog_btn {
+        margin-top: 20px;
+    }
+    .services_number p {
+        font-size: 100px;
+    }
+    .services_number {
+        bottom: -48px;
+    }
+    .service2 .service_left_img .services_number {
+        top: -50px;
+    }
+    .service_contain_list ul li p {
+        font-size: 15px;
+    }
+    .service_left_img img {
+        border-radius: 30px;
+    }
+    .inner_wir_empfehlen_section{
+        padding-top: 70px;
+    }
+    /*-------------- services page Css End -------------*/
+
+    /*-------------- Studio page Css Start -------------*/
+    .gesundheits_details .common_inner_section_title h2 {
+        font-size: 40px;
+    }
+    .gesundheits_info_inner p {
+        font-size: 14px;
+    }
+    .gesundheits_iiner_img, .gesundheits_iiner_img img {
+        width: 300px;
+        height: 300px;
+    }
+    .gesundheits_bottom_img {
+        max-width: 270px;
+        right: 15.8%;
+    }
+    .gesundheits_info_inner p {
+        margin: 20px 0px;
+    }
+    .gesundheits_main_img {
+        justify-content: center;
+    }
+    .gesundheits_main_img{
+        width: 470px;
+    }
+    .unser_team_inner_section {
+        padding: 40px 15px;
+        border-radius: 40px;
+    }
+    .unser_team_inner_section .row{
+        margin: 0 -15px;
+    }
+    .unser_team_inner_section .col{
+        padding: 0 15px;
+    }
+    .unser_team_member_details .team_member_img {
+        width: 117px;
+        height: 117px;
+    }
+    .team_member_info h4 {
+        font-size: 14px;
+        margin: 22px 0 10px;
+        padding: 8px 10px;
+    }
+    .team_member_info p {
+        font-size: 12px;
+    }
+    .unser_team_inner_section .col:nth-child(n+6) {
+        margin-top: 50px;
+    }
+    .unser_team_inner_section {
+        margin-top: 40px;
+    }
+    .gellerie_slider .owl-theme .owl-nav{
+        max-width: 150px;
+    }
+    .gellerie_slider .owl-theme .owl-nav {
+        margin-top: 30px;
+    }
+    .studio_page .ruckuf_inner_section h2 {
+        font-size: 45px;
+        max-width: 500px;
+    }
+    .text_right{
+        text-align: left;
+    }
+    /*-------------- Studio page Css End -------------*/
+}
+
+@media screen and (max-width: 850px) {
+    .online-analyse-right-col, .online-analyse-left-col {
+        width: 50%;
+    }
+    .online-analyse-content {
+        max-width: 300px;
+    }
+    .wit-sind-img:after {
+        max-width: 300px;
+        height: 300px;
+    }
+    .wie-fit-sind-image-block{
+        max-width: 300px;
+        top: 15%;
+    }
+    .mitglied-werden-left-col {
+        width: 300px;
+    }
+    .mitglied-werden-right-col {
+        width: calc(100% - 300px);
+    }
+    .mitglied-werden-img:after {
+        width: 320px;
+        height: 320px;
+    }
+    .mitglied-werden-small-img {
+        max-width: 160px;
+        right: -50px;
+    }
+    .mitglied-werden-img-shape{
+        right: -20px;
+    }
+    .mitglied-werden-section{
+        padding: 60px 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .menu-nav{
+        max-width: 45%;
+    }
+    .mobile-logo-hold img{
+        max-width: 100px;
+    }
+    .menu-nav ul li + li{
+        margin-top: 5px;
+    }
+    .menu-nav:after{
+        width: 600px;
+        height: 600px;
+        top: -10%;
+    }
+
+    .menu-over{
+        max-height: 400px;
+    }
+    .home-circle-shape1{
+        width: 135px;
+        height: 135px;
+        left: unset;
+        right: -95px;
+        top: 144px;
+    }
+    .home-circle-shape2{
+        left: 20px;
+        width: 62px;
+        height: 62px;
+        top: 109px;
+    }
+    .home-circle-shape3{
+        width: 130px;
+        height: 130px;
+        left: -73px;
+        bottom: 130px;
+    }
+    .home-circle-shape4{
+        width: 55px;
+        height: 55px;
+        right: 85px;
+    }
+    .mobile-circle-shape{
+        display: block;
+    }
+    .cm-bounce img {
+        max-width: 25px;
+    }
+    .ihr-gesundheits-section {
+        margin-top: 20px;
+    }
+    .ihr-gesundheits-image-block{
+        width: 100%;
+        position: unset;
+    }
+    .ihr-gesundheits-content{
+        max-width: 100%;
+        width: 100%;
+        margin-top: 40px;
+    }
+    .mobile-ihr-title{
+        display: block;
+        text-align: center;
+        margin-bottom: 35px;
+    }
+    .mobile-ihr-title .common-section-title-shape {
+        top: -35px;
+        left: -34px;
+    }
+    .ihr-gesundheits-content .common-section-title {
+        display: none;
+    }
+    .ihr-gesundheits-image-hold {
+        max-width: 400px;
+        min-height: 400px;
+        margin: 0 auto;
+    }
+    .ihr-gesundheits-content .common-desc, .ihr-gesundheits-content .common-section-btn{
+        padding: 0;
+        text-align: center;
+    }
+    .ihr-gesundheits-content .common-section-btn{
+        margin-top: 20px;
+    }
+    .ihr-gesundheits-img-shape {
+        bottom: -6px;
+        right: -6px;
+        max-width: 317px;
+    }
+    .ihr-gesundheits-content .common-desc p + p {
+        margin-top: 0;
+    }
+    .four-icon-slider-section{
+        padding: 0 0 60px;
+    }
+    .four-icon-title h4{
+        font-size: 16px;
+    }
+    .four-icon-owl.owl-carousel .owl-nav button svg {
+        max-width: 25px;
+    }
+    .four-icon-title h4:after{
+        top: -7px;
+    }
+    .bewertungen-owl{
+        max-width: 100%;
+    }
+    .bewertungen-box .common-desc{
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 25px 0 10px;
+    }
+    .bewertungen-box .common-desc:after {
+        right: 0;
+    }
+    .bewertungen-box .common-desc:before {
+        left: -15px;
+    }
+    .bewertungen-owl.owl-carousel .owl-nav button.owl-prev {
+        margin-left: 00px;
+    }
+    .bewertungen-owl.owl-carousel .owl-nav button.owl-next {
+        margin-right: 00px;
+    }
+    .bewertungen-slider-block {
+        padding: 40px 15px 20px;
+    }
+    .bewertungen-slider-block .bewertungen-section-title{
+        text-align: left;
+    }
+    .online-analyse-right-col, .online-analyse-left-col {
+        width: 100%;
+    }
+    .online-analyse-image-block {
+        padding-left: 50px;
+        max-width: 450px;
+        margin:35px auto;
+    }
+    .online-analyse-content{
+        max-width: 100%;
+    }
+    .online-analyse-content .online-analyse-title, .wie-fit-sind-content-block .wie-fit-sind-title{
+        display: none;
+    }
+    .mobile-online-title{
+        display: block;
+        padding-left: 40px;
+    }
+    .online-analyse-content .common-desc{
+        padding: 20px 0;
+    }
+    .wie-fit-sind-section{
+        padding: 0 0 60px;
+    }
+    .wie-fit-sind-title .common-section-title h2:before{
+        display: none;
+    }
+    .mobile-wie-title {
+        display: block;
+        margin-bottom: 25px;
+    }
+    .wie-fit-sind-content-block{
+        max-width: 100%;
+    }
+    .wie-fit-sind-content-block .common-desc, .wie-fit-sind-content-block .common-section-btn {
+        text-align: left;
+        max-width: 100%;
+    }
+    .wie-fit-sind-image-block{
+        max-width: 400px;
+        margin: 0 auto;
+        position: unset;
+    }
+    .wit-sind-img:after {
+        max-width: 400px;
+        height: 400px;
+    }
+    .mitglied-werden-left-col, .mitglied-werden-right-col{
+        width: 100%;
+    }
+    .mitglied-werden-left-circle-shape{
+        display: none;
+    }
+    .mitglied-werden-content-block{
+        max-width: 100%;
+    }
+    .mitglied-werden-title {
+        text-align: left;
+    }
+    .mitglied-werden-img{
+        margin: 0 auto;
+    }
+    .mitglied-werden-img:after {
+        width: 450px;
+        height: 450px;
+    }
+    .mitglied-werden-small-img {
+        max-width: 160px;
+        right: -70px;
+        bottom: 0px;
+    }
+    .gewinnspiel-left-col, .gewinnspiel-right-col {
+        width: 100%;
+    }
+    .gewinnspiel-content-block{
+        border-radius: 40px 40px 0 0px;
+        padding: 60px 45px 25px;
+    }
+    .gewinnspiel-content-box{
+        max-width: 100%;
+    }
+    .gewinnspiel-content-box .common-section-btn {
+        display: none;
+    }
+    .gewinnspiel-wheel-block{
+        border-radius: 0 0 40px 40px;
+        display: block;
+    }
+    .gewinnspiel-wheel-block .common-section-btn{
+        display: block;
+        text-align: center;
+        margin-bottom: 35px;
+        padding: 0 15px;
+    }
+    .wheel--box .wheel--box-inner {
+        min-width: auto;
+    }
+    .wheel--box {
+        padding: 40px 15px 25px;
+    }
+    .wheel--box-inner svg{
+        height: 45px;
+    }
+    .schon-gewusst-section {
+        margin-top: -60%;
+        padding-top: 50%;
+    }
+    .schon-gewusst-block .online-analyse-img:after {
+        left: -50px;
+        max-width: 250px;
+        height: 250px;
+    }
+    .schon-gewusst-block .online-analyse-img:before {
+        top: 60px;
+        right: -20px;
+        max-width: 60px;
+        height: 60px;
+    }
+    .schon-gewusst-content-block{
+        margin-top: 0;
+    }
+    .wir-empfehlen-block{
+        padding-top: 20px;
+    }
+    .haufig-gestellt-title .common-section-title {
+        text-align: left;
+    }
+    .haufig-gestellt-block {
+        margin-top: 40px;
+    }
+    .dein-erster-circle-shape {
+        right: 60px;
+        width: 100px;
+        height: 100px;
+    }
+    .dein-erster-circle-shape svg {
+        margin-right: -40px;
+        margin-bottom: -20px;
+    }
+    .dein-erster-title h2 {
+        font-size: 40px;
+    }
+    .dein-erster-sub-title h3 {
+        font-size: 25px;
+    }
+    .form-details{
+        padding-top: 30px;
+    }
+    .mobile-footer-title{
+        display: block;
+    }
+    .footer-title{
+        display: none;
+    }
+    .footer-details-block{
+        flex-flow: column;
+        justify-content: center;
+    }
+    .footer-col-2{
+        border: 0;
+        padding:15px 0;
+        position: relative;
+        margin: 15px 0;
+    }
+    .footer-col-2:after, .footer-col-2:before{
+        content: '';
+        width: 100%;
+        max-width: 145px;
+        height: 1px;
+        background-color: var(--color-1);
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        position: absolute;
+    }
+    .footer-col-2:before{
+        top: 0;
+    }
+    .footer-col-2:after{
+        bottom: 0;
+    }
+    .copyright-text p{
+        opacity: 1;
+        margin-top: 6px;
+    }
+    .footer-social {
+        padding-top: 35px;
+        padding-left: 0;
+    }
+    .footer-circle-2 {
+        top: 140px;
+        left: 10px;
+        width: 66px;
+        height: 66px;
+        background-color: var(--color-8);
+    }
+    .footer-circle-4 {
+        width: 26px;
+        height: 26px;
+        background-color: var(--color-6);
+        top: 216px;
+        right: 27px;
+    }
+    .footer-circle-1 {
+        width: 93px;
+        height: 93px;
+        bottom: 375px;
+        left: -46px;
+    }
+    .footer-circle-3 {
+        left: 10px;
+        width: 55px;
+        height: 55px;
+        bottom: 15px;
+    }
+    .footer-circle-5 {
+        bottom: 276px;
+        right: -35px;
+    }
+    .dek_block{
+        display: none;
+    }
+    .mob_block{
+        display: block;
+    }
+    /*-------------- Conrtact page Css Start -------------*/
+    .inner_common_banner .home-circle-shape2 {
+        top: 20%;
+        left: 5%;
+    }
+    .inner_common_banner .home-circle-shape3{
+        display: none;
+    }
+    .service_page .home-circle-shape3 {
+        display: block;
+        width: 90px;
+        height: 90px;
+        left: -28px;
+        bottom: 76px;
+    }
+    .service_page .home-circle-shape5 {
+        width: 40px;
+        height: 40px;
+    }
+    .service_page .home-circle-shape1 {
+        top: 260px;
+        right: -91px;
+    }
+    .service_page .inner_common_banner .home-circle-shape2 {
+        top: 30%;
+        left: -19px;
+    }
+    .common_section_inner_title p {
+        max-width: 500px;
+        margin: 0 auto;
+        line-height: 1.2;
+        margin-bottom: 20px;
+    }
+    .contact_banner img{
+        width: 100%;
+    }
+    .ihr_sec_common_section {
+        margin-top: 45px;
+    }
+
+    .day_and_time_section .container{
+        max-width: 100%;
+    }
+    .day_list_section .row .col-md-6 {
+        margin-top: 15px;
+    }
+    .common_inner_section_title h2{
+        font-size: 44px;
+    }
+    .day_and_time_section .ihr-dots-shape img {
+        width: 60%;
+    }
+
+    .card_main_section .container{
+        max-width: 520px;
+    }
+    .contact_inner_section .col-md-4 + .col-md-4{
+        margin-top: 30px;
+    }
+    .contact_card_detail .card_address{
+        font-size: 18px;
+    }
+    .card_last_height {
+        min-height: unset;
+    }
+    .ihr_sec_common_section{
+        padding-bottom: 60px;
+    }
+    .contact_card_detail {
+        border-radius: 30px;
+    }
+
+    .first_name_section{
+        flex-wrap: wrap;
+    }
+    .first_name_section input{
+        width: 100%;
+    }
+    .first_name_section input + input{
+        margin-left: 0px;
+        margin-top: 25px;
+    }
+    .contact_main_form{
+        padding: 50px 35px;
+    }
+    .contact_form_section {
+        margin-top: 40px;
+        bottom: 0px;
+    }
+    .contact_card_section{
+        padding-bottom: 50px;
+    }
+    .first_input input {
+        height: 45px;
+        padding: 0 20px;
+    }
+    .email_message_section textarea {
+        height: 225px;
+        padding: 10px 20px 0;
+    }
+    .first_input input,
+    .first_input input::placeholder,
+    .first_input textarea,
+    .first_input textarea::placeholder{
+        font-size: 22px;
+    }
+    .email_message_section textarea{
+        border-radius: 20px;
+    }
+    .contact_page .footer-circle-2 {
+        top: -30px;
+    }
+    .contact_page .footer-circle-4{
+        top:65px;
+    }
+    /*-------------- Conrtact page Css End -------------*/
+
+    /*-------------- News page Css Start -------------*/
+    .news_common_title h3 {
+        font-size: 22px;
+    }
+    .news_blog_img img{
+        border-radius: 15px;
+    }
+    .new_contain_left{
+        padding-top: 22px;
+    }
+    .news_common_title p {
+        font-size: 16px;
+    }
+    .ruckuf_inner_section{
+        border-radius: 30px;
+    }
+    .ruckuf_inner_section {
+        padding: 30px 30px 40px;
+    }
+    .ruckuf_inner_section h2 {
+        font-size: 40px;
+    }
+    .ruckuf_inner_section p {
+        font-size: 38px;
+        margin: 10px 0 20px;
+    }
+    .hand_mens {
+        width: 110px;
+        height: 110px;
+        right: 45px;
+    }
+    .hand_mens svg {
+        max-width: 81%;
+        margin-right: -16px;
+        margin-top: -53px;
+    }
+    .ruckuf_inner_section {
+        margin-bottom: -140px;
+    }
+    /*-------------- News page Css End -------------*/
+
+    /*-------------- Kurs page Css Start -------------*/
+    .kurse_first_title_section ul{
+        flex-wrap: wrap;
+        justify-content: unset;
+    }
+    .kurse_first_title_section ul li{
+        margin-top: 15px;
+    }
+    .kurse_first_title_section ul li + li{
+        margin-left: 20px;
+    }
+    .kures_day_table_details .table thead tr td a {
+        font-size: 18px;
+    }
+    .kures_day_table_details .table thead tr td {
+        padding-bottom: 15px;
+    }
+    .kurs_table_btn{
+        margin-top: 30px;
+    }
+    .kurse_table_detail_section {
+        padding-top: 25px;
+    }
+
+    .kurse_innser_slider .item {
+        border-radius: 25px;
+        padding: 15px;
+    }
+    .kurse_slider_img {
+        height: 190px;
+    }
+    .kurse_slider_details h3 {
+        font-size: 24px;
+    }
+    .news_details {
+        margin: 12px 0px;
+    }
+    .kurse_minit_details p{
+        font-size: 20px;
+    }
+    .clock_imf svg {
+        width: 70%;
+    }
+    .mittler_detail {
+        margin: 15px 0 20px;
+    }
+    .mittler_lines span {
+        width: 16px;
+        height: 8px;
+        border-radius: 3px;
+    }
+    .kurs_left_details .more_main{
+        text-align: center;
+    }
+    .kurs_left_details p.jam_line_clamp{
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-align: center;
+    }
+    .kurs_left_details p{
+        text-align: center;
+    }
+    .kurse_innser_slider {
+        margin-top: 35px;
+    }
+    .kurs_page .praimary_bg_color{
+        padding-top: 130px;
+    }
+    .kurs_page .contact_card_section {
+        padding-bottom: 0px;
+    }
+    .kurse_innser_slider .owl-carousel .owl-nav{
+        margin-top: 40px;
+        width: 150px
+    }
+
+    .service_inner_blog_section{
+        flex-wrap: wrap;
+    }
+    .service_left_img_section,
+    .service_right_contain_section {
+        width: 100%;
+    }
+    .service_left_img_section{
+        order: 1;
+    }
+    .service_right_contain_section {
+        order: 2;
+    }
+    .service2, .service3{
+        padding-top: 0px;
+    }
+    .service_right_contain_section {
+        padding-left: 10px;
+    }
+
+    .service2 .service_left_img .services_number {
+        top: unset;
+    }
+    .service_page .service_left_img .services_number {
+        bottom: -38px;
+        left: unset;
+        right: 40px;
+        transform: unset;
+    }
+    .services_number p {
+        font-size: 85px;
+    }
+    .service2 .service_right_contain_section{
+        padding: 0px;
+    }
+    .service_right_contain_section {
+        padding-left: 0px;
+    }
+    .service_left_img_section .common_inner_section_title{
+        text-align: left;
+    }
+    .service_left_img{
+        margin: 30px 0 40px;
+        height: 280px;
+    }
+    .service_left_img img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 20px;
+    }
+    .service_blog_slider  .owl-nav{
+        max-width: 150px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+    .service_left_img_section .common_inner_section_title h2 {
+        font-size: 40px;
+    }
+    /*-------------- Kurs page Css End -------------*/
+
+    /*----------- Inner Wir Empfehlen Section Start -------------*/
+    .inner_wir_image_col, .inner_wir_contnet_col {
+        width: 100%;
+    }
+    .inner_wir_image:after, .inner_wir_top_shape, .inner_wir_bottom_shape, .inner_wir_contnet_box .inner_title_wir, .inner_wir_contnet_box .common_section_desc {
+        display: none;
+    }
+    .inner_wir_contnet_box {
+        margin-left: 0;
+        padding: 20px;
+    }
+    .inner_wir_contnet_col {
+        padding: 10px 0 20px;
+    }
+    .wir_inner_product {
+        object-position: center;
+        max-height: 250px;
+        width: 100%;
+    }
+    .mobile_inner-wir-title {
+        display: block;
+        margin-bottom: 25px;
+        padding-top: 50px;
+    }
+    .inner_title_wir h3 {
+        font-size: 30px;
+        margin-bottom: 0;
+    }
+    .mobile_inner-wir-title .common_section_desc p{
+        font-size: 16px;
+        font-weight: 400;
+        -webkit-text-stroke-width: 0px;
+        color: var(--color-2);
+
+    }
+    .inner_point_wir p {
+        -webkit-text-stroke-width: 0px;
+        color: var(--color-2);
+        font-weight: 400;
+        font-size: 14px;
+        max-width: 210px;
+    }
+    .inner_point_wir p:after {
+        top: 6px;
+    }
+    .inner_btn_wir {
+        padding: 20px 15px 0;
+    }
+    .inner_wir_image{
+        padding: 0 50px;
+    }
+    .inner_wir_image img, .inner_wir_empfehlen_box, .inner_wir_empfehlen_box:after{
+        border-radius: 35px;
+    }
+    .inner_wir_empfehlen_section{
+        margin-bottom: 0px;
+        padding-top: 50px;
+    }
+    /*----------- Inner Wir Empfehlen Section End -------------*/
+
+    /*----------- studio page Start -------------*/
+    .gesundheits_inner_section{
+
+    }
+    .gesundheits_left_contain, .gesundheits_right_img {
+        width: 100%;
+    }
+    .gesundheits_right_img{
+        order: 1;
+        padding-left: 50px;
+    }
+    .gesundheits_left_contain{
+        order: 2;
+        margin-top: 30px;
+    }
+    .gesundheits_main_img{
+        margin: 0 auto;
+    }
+    .gesundheits_info_inner p{
+        max-width: 100%;
+    }
+
+    .unser_team_inner_section {
+        padding: 30px 15px;
+        border-radius: 20px;
+    }
+    .unser_team_inner_section .owl-nav{
+        max-width: 120px;
+        display: flex;
+        justify-content: space-between;
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    .ruckruf_section, .unser_team_section{
+        padding-top: 60px;
+    }
+    .unser_team_inner_section {
+        margin-top: 30px;
+    }
+    .gellerie_img img {
+        border-radius: 20px;
+    }
+    .gellerie_section .gellerie_img {
+        margin-top: 18px;
+    }
+    .gellerie_slider_pad{
+        padding: 60px 15px 0px;
+    }
+    .gellerie_slider .item img {
+        border-radius: 10px;
+    }
+    .gellerie_slider .owl-theme .owl-nav{
+        max-width: 120px;
+        margin-top: 20px;
+    }
+    .studio_page .praimary_bg_color{
+        padding-top: 60px;
+    }
+    .contact_page .footer-wrapper,
+    .service_page .footer-wrapper {
+        padding-top: 60px;
+    }
+    .news_page .footer-wrapper{
+        padding-top: 155px;
+    }
+    .kurs_page .footer-wrapper {
+        padding-top: 175px;
+    }
+    .kurs_page .footer-circle-2 {
+        top: 70px;
+    }
+    .kurs_page .footer-circle-4 {
+        top: 155px;
+    }
+    .studio_page .footer-wrapper{
+        padding-top: 145px;
+    }
+    .studio_page .contact_card_section {
+        padding-bottom: 0;
+    }
+    .studio_page .footer-circle-2{
+        top: 50px;
+    }
+    .studio_page .footer-circle-4{
+        top: 135px;
+    }
+    .service_page .footer-circle-2{
+        top: -25px;
+    }
+    .service_page .footer-circle-4{
+        top: 55px;
+    }
+    .studio_page .inner_common_banner .home-circle-shape2 {
+        top: 150px;
+        left: -20px;
+    }
+    .studio_page .inner_common_banner .home-circle-shape5 {
+        top: unset;
+        right: -10px;
+        bottom: 130px;
+    }
+    .studio_page .inner_common_banner .home-circle-shape4{
+        bottom: unset;
+        top: 80px;
+        right: unset;
+        left: 220px;
+    }
+
+    /*----------- studio page End -------------*/
+
+
+
+}
+
+@media screen and (max-width: 575px) {
+    .menu-nav {
+        max-width: 60%;
+    }
+    .common-large-btn{
+        max-width: 100%;
+        padding: 8px 10px;
+        font-size: 16px;
+    }
+   .mobile-home-banner-content{
+        display: block;
+    }
+    .mobile-home-banner-content{
+        margin-bottom: 70px;
+    }
+    .home-banner-content, .next-desk-arrow{
+        display: none;
+    }
+    .home-circle-shape4{
+        bottom: 230px;
+    }
+    .next-arrow {
+        bottom: 30px;
+    }
+    .next-arrow span{
+        font-size: 16px;
+    }
+    .next-mobile-arrow{
+        display: block;
+    }
+    .common-desc p{
+        font-size: 16px;
+    }
+    .common-section-title h2 {
+        font-size: 30px;
+    }
+    .common-section-title-shape {
+        top: -43px;
+        left: -21px;
+        max-width: 50px;
+    }
+    .mobile-ihr-title .common-section-title-shape {
+        top: -41px;
+        left: -21px;
+    }
+    .four-icon-owl.owl-theme .owl-dots {
+        margin-top: 10px;
+    }
+    .bewertungen-section-title .common-section-title-shape {
+        top: -44px;
+        left: 0px;
+    }
+    .bewertungen-section-title .common-section-title h2 {
+        padding-left: 20px;
+    }
+    .bewertungen-client-title h3{
+        font-size: 20px;
+    }
+    .bewertungen-box .common-desc:after, .bewertungen-box .common-desc:before{
+        font-size: 37px;
+    }
+    .bewertungen-box .common-desc:before{
+        left: 10px;
+        top: -10px;
+    }
+    .owl-theme .owl-nav [class*=owl-] svg{
+        max-width: 25px;
+    }
+    .owl-carousel .owl-item .re-start img {
+        max-width: 90px;
+    }
+    .bewertungen-box .common-desc p{
+        font-size: 16px;
+    }
+    .bewertungen-box .common-desc:after{
+        bottom: -20px;
+    }
+    .bewertungen-owl.owl-carousel .owl-nav{
+        top: 40%;
+    }
+    .bewertungen-left-shape{
+        top: -63px;
+    }
+    .bewertungen-left-shape svg {
+        max-width: 50px;
+    }
+    .online-analyse-img:after {
+        left: -50px;
+        max-width: 180px;
+        height: 180px;
+        bottom: -10px;
+    }
+    .online-analyse-img{
+        max-width: 260px;
+        margin: 0 auto;
+    }
+    .online-analyse-img:before {
+        top: 9px;
+        right: -17px;
+        max-width: 36px;
+        height: 36px;
+    }
+    .online-analyse-title .common-section-title-shape {
+        top: -45px;
+        left: -20px;
+    }
+    .online-analyse-content .common-desc{
+        padding-top: 0;
+    }
+    .online-analyse-image-block{
+        padding-left: 15px;
+    }
+    .mobile-online-title, .wie-fit-sind-title .common-section-title h2, .mitglied-werden-title h2 {
+        padding-left: 20px;
+    }
+    .wit-sind-img:after {
+        max-width: 335px;
+        height: 335px;
+    }
+    .wie-fit-sind-image-block{
+        max-width: 335px;
+    }
+    .wie-fit-sind-title .common-section-title-shape {
+        top: -44px;
+        left: -1px;
+    }
+    .mitglied-werden-title .common-section-title-shape {
+        top: -45px;
+        left: 2px;
+    }
+
+    .mitglied-werden-img:after {
+        width: 350px;
+        height: 350px;
+    }
+    .mitglied-werden-sub-title h3 {
+        font-size: 22px;
+    }
+    .mitglied-werden-content-block .common-desc p {
+        font-size: 16px;
+    }
+    .mi-line {
+        height: 6px;
+        margin-bottom: 20px;
+        max-width: 113px;
+    }
+    .mitglied-werden-img{
+        max-width: 300px;
+    }
+    .mitglied-werden-img:after {
+        width: 300px;
+        height: 300px;
+    }
+    .mitglied-werden-image-block{
+        padding-right: 50px;
+    }
+    .wheel--button a{
+        font-size: 20px;
+    }
+    .gewinnspiel-title .common-section-title-shape {
+        top: -44px;
+        left: -21px;
+    }
+    .gewinnspiel-content-box .common-desc p {
+        font-size: 14px;
+    }
+    .ge-large-star{
+        max-width: 12px;
+        top: -30px;
+        right: -80px;
+    }
+    .ge-small-star {
+        bottom: -20px;
+        right: -30px;
+        max-width: 7px;
+    }
+    .gesub-small-star{
+        left: -15px;
+        top: 10px;
+        max-width: 8px;
+    }
+    .gewinnspiel-content-block{
+        padding: 40px 35px 25px;
+    }
+    .schon-gewusst-title .common-section-title-shape {
+        left: -20px;
+        top: -46px;
+    }
+    .schon-gewusst-content-block .common-desc p:after, .schon-gewusst-content-block .common-desc p:before {
+        font-size: 37px;
+    }
+    .schon-gewusst-content-block .common-desc p:before {
+        top: -30px;
+    }
+    .schon-gewusst-content-block .common-desc {
+        padding: 20px 0;
+    }
+    .wir-empfehlen-title h3 {
+        font-size: 22px;
+    }
+    .wir-empfehlen-hand-ic{
+        margin-bottom: 10px;
+    }
+    .wir-empfehlen-hand-ic svg {
+        max-width: 30px;
+    }
+    .mobile-schon-title{
+        padding-left: 20px;
+    }
+    .schon-gewusst-block .online-analyse-img:after {
+        left: -50px;
+        max-width: 200px;
+        height: 200px;
+    }
+    .schon-gewusst-block .online-analyse-image-block{
+        max-width: 300px;
+    }
+    .schon-gewusst-block .online-analyse-img:before{
+        top: 9px;
+        right: -17px;
+        max-width: 36px;
+        height: 36px;
+    }
+    .schon-gewusst-section {
+        margin-top: -370px;
+        padding-top: 300px;
+    }
+    .faq-col-1, .faq-col-2, .faq-col-3{
+        width: 100%;
+    }
+    .ct_accordion_lable h3 {
+        padding: 15px 60px 15px 20px;
+    }
+    .ct_bg_box {
+        border-radius: 13px;
+    }
+    .ct_accordion_lable h3 {
+        font-size: 16px;
+    }
+    .ct_accordion_lable span{
+        width: 20px;
+        height: 12px;
+    }
+    .ct_accordion_lable span svg{
+        width: 100%;
+        height: 100%;
+    }
+    .ct_accordion_lable span {
+        top: 10px;
+    }
+    .ct_accordion_lable.ct_visiable span {
+        top: 28px;
+    }
+    .ct_accordion_wrap {
+        margin-bottom: 0;
+    }
+    .ct_accordion_wrap +  .ct_accordion_wrap {
+        margin-top: 15px;
+    }
+    .ct_accordion_info{
+        padding-bottom: 30px;
+    }
+    .haufig-gestellt-title .common-section-title-shape {
+        top: -44px;
+        left: 0px;
+    }
+    .haufig-gestellt-title .common-section-title h2 {
+        padding-left: 20px;
+    }
+    .dein-erster-box {
+        border-radius: 23px;
+        padding: 20px;
+    }
+    .input-filed input{
+        margin-bottom: 20px;
+        height: 40px;
+        padding: 5px 20px;
+    }
+    .input-filed input::-webkit-input-placeholder {
+        font-size: 16px;
+    }
+    .dein-erster-circle-shape {
+        right: 25px;
+        width: 70px;
+        height: 70px;
+        top: -15px;
+    }
+    .dein-erster-circle-shape svg {
+        margin-right: -30px;
+        margin-bottom: -15px;
+    }
+    .dein-erster-title h2 {
+        font-size: 30px;
+    }
+    .dein-erster-sub-title h3 {
+        font-size: 20px;
+    }
+    .dein-erster-box{
+        margin-bottom: -130px;
+    }
+    .footer-circle-2{
+        top: 100px;
+    }
+    .footer-wrapper{
+        padding-top: 175px;
+    }
+    .footer-circle-4{
+        top: 175px;
+    }
+    .inner_common_banner .owl-nav .owl-prev,
+    .inner_common_banner .owl-nav .owl-next,
+    .kurse_innser_slider .owl-carousel .owl-nav .owl-prev,
+    .kurse_innser_slider .owl-carousel .owl-nav .owl-next{
+        position: absolute;
+        top: 50%;
+        left: 0px;
+        transform: translateY(-50%);
+    }
+    .inner_common_banner .owl-nav .owl-prev svg,
+    .inner_common_banner .owl-nav .owl-next svg,
+    .kurse_innser_slider .owl-carousel .owl-nav .owl-prev svg,
+    .kurse_innser_slider .owl-carousel .owl-nav .owl-next svg{
+        max-width: 25px;
+    }
+    .inner_common_banner .owl-carousel .owl-nav .owl-next,
+    .kurse_innser_slider .owl-carousel .owl-nav .owl-next{
+        left: unset;
+        right: 0px;
+    }
+
+    .owl-theme .owl-dots .owl-dot span{
+        width: 8px;
+        height: 8px;
+        background: var(--color-2);
+        -webkit-transition: all 0.5s ease 0s;
+        -moz-transition: all 0.5s ease 0s;
+        -ms-transition: all 0.5s ease 0s;
+        -o-transition: all 0.5s ease 0s;
+        transition: all 0.5s ease 0s;
+    }
+    .owl-dots{
+        margin-top: 20px;
+    }
+    .owl-theme .owl-dots .owl-dot.active span{
+        background: var(--color-9);
+        transform: scale(1.5);
+    }
+
+    .common_section_inner_title br{
+        display: block;
+    }
+    .kurse_innser_slider .owl-carousel .owl-nav{
+        position: unset;
+        left: unset;
+    }
+    /*-------------- Conrtact page Css Start -------------*/
+    .desktop_block,
+    .day_and_time_section .ihr-dots-shape img,
+    .services_banner_icon{
+        display: none;
+    }
+    .mobile_block{
+        display: block;
+    }
+    .common_section_inner_title p{
+        font-size: 50px;
+        max-width: 400px;
+        margin-bottom: 60px;
+        margin-top: 30px;
+    }
+    .contact_banner{
+        height: 280px;
+    }
+    .contact_banner img{
+        object-fit: cover;
+        height: 100%;
+    }
+    .inner_common_banner .home-circle-shape2 {
+        top: 16%;
+        left: 3%;
+        width: 50px;
+        height: 50px;
+    }
+    .inner_common_banner .home-circle-shape4{
+        width: 40px;
+        height: 40px;
+        bottom: unset;
+        top: 37%;
+        right: 20%;
+    }
+    .service_page .home-circle-shape4 {
+        bottom: 5%;
+        top: unset;
+        right: 70px;
+    }
+    .contact_banner img {
+        border-radius: 15px;
+    }
+    .inner_common_banner .home-circle-shape5{
+        right: 25%;
+    }
+
+    .common_inner_section_title h2{
+        font-size: 40px;
+    }
+    .sun_icon svg {
+        width: 25px;
+        height: 25px;
+    }
+    .vertical_line {
+        height: 20px;
+    }
+    .sun_and_time_contain .line{
+        width: 20px;
+    }
+
+    .day_inner_list{
+        padding: 9px 15px;
+    }
+    .common_inner_section_title {
+        text-align: left;
+        padding-left: 10px;
+    }
+    .inner_common_banner .common-section-title-shape {
+        top: -43px;
+        left: -11px;
+        max-width: 38px;
+    }
+    .day_list_section {
+        padding-top: 15px;
+        border-bottom: 0px;
+        padding-bottom: 35px;
+    }
+    .ihr_sec_common_section {
+        padding-bottom: 20px;
+        padding-top: 30px;
+    }
+    .contact_card_detail {
+        border-radius: 20px;
+    }
+
+    .form_group .round label:before {
+        width: 25px;
+        height: 25px;
+        left: 6px;
+    }
+    .form_group .round label{
+        padding-left: 40px;
+        font-size: 15px;
+    }
+    .form_group .round label:after {
+        border: 2px solid #fff;
+        border-top: none;
+        border-right: none;
+        content: "";
+        height: 8px;
+        width: 16px;
+        left: 11px;
+        opacity: 0;
+        position: absolute;
+        top: 5px;
+        transform: rotate(-45deg);
+    }
+    .contact_btn {
+        margin-top: 25px;
+    }
+    .contact_main_form {
+        padding: 45px 20px;
+    }
+    .form_group .round{
+        height: 25px;
+    }
+    .contact_sub_title{
+        text-align: left;
+        margin-left: 10px;
+    }
+    .first_input input,
+    .first_input input::placeholder,
+    .first_input textarea,
+    .first_input textarea::placeholder{
+        font-size: 20px;
+    }
+    .contact_sub_title {
+        font-size: 18px;
+    }
+    .first_name_section input + input,
+    .email_message_section input,
+    .email_message_section  textarea{
+        margin-top: 20px;
+    }
+    .contact_page .footer-circle-4{
+        top:45px;
+    }
+    /*-------------- Conrtact page Css End -------------*/
+
+    /*-------------- News page Css Start -------------*/
+    .news_mobile_slider {
+        padding:  0 25px;
+    }
+    .news_blog_img{
+        height: 270px;
+    }
+    .news_blog_img img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .inner_common_banner .news_mobile_slider .owl-nav .owl-prev,
+    .inner_common_banner .news_mobile_slider .owl-nav .owl-next{
+        top: 135px;
+        left: -10px;
+    }
+    .inner_common_banner .news_mobile_slider .owl-nav .owl-next{
+        left: unset;
+        right: -10px;
+    }
+    .ruckuf_inner_section h2 {
+        font-size: 32px;
+    }
+    .ruckuf_inner_section p {
+        font-size: 30px;
+        margin: 10px 0 15px;
+    }
+    .hand_mens {
+        width: 70px;
+        height: 70px;
+        right: 30px;
+        top: -20px;
+    }
+    .hand_mens svg {
+        max-width: 81%;
+        margin-right: -6px;
+        margin-top: -74px;
+    }
+    .ruckuf_inner_section p{
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .ruckuf_inner_section {
+        padding: 30px 20px 30px;
+        margin-bottom: -75px;
+    }
+    .ruckruf_section {
+        padding-top: 50px;
+    }
+
+    .kurse_innser_slider .owl-carousel .owl-nav .owl-next {
+        right: -35px;
+        top: 32%;
+    }
+    .kurse_innser_slider .owl-carousel .owl-nav .owl-prev {
+        left: -35px;
+        top: 32%;
+    }
+    .news_page .footer-circle-4 {
+        top: 95px;
+    }
+    .news_page .footer-circle-2 {
+        top: 20px;
+    }
+    /*-------------- News page Css End -------------*/
+
+    /*-------------- Kurs page Css Start -------------*/
+    .kurse_inner_table_section {
+        margin-top: 20px;
+    }
+    .kurs_page .ihr-top-shape-block svg path{
+        fill: var(--color-4);
+    }
+    .kurs_page .common_inner_section_title svg .mobile_shape{
+        fill: var(--color-4);
+    }
+    .kurs_page .ihr_sec_common_section{
+        background-color: var(--color-4);
+    }
+    .trow_nav_color{
+        background-color: var(--color-1);
+    }
+    .kures_day_table_details .table tbody tr td,
+    .kures_day_table_details .table thead tr{
+        display: none;
+    }
+    .kures_day_table_details .table tbody tr td:nth-child(1),
+    .kures_day_table_details .table tbody tr td:nth-child(2){
+        display: table-cell !important;
+    }
+    .mobile_day_list{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 25px;
+    }
+    .mobile_day_list li a{
+        color: var(--color-2);
+        font-size: 20px;
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .mobile_day_list li a.active{
+        background-color: var(--color-7);
+        font-weight: bold;
+        position: relative;
+    }
+    .mobile_day_list li a.active:after {
+        content: ' ';
+        width: 0;
+        height: 0;
+        border-left: 7px solid transparent;
+        border-right: 7px solid transparent;
+        border-top: 10px solid var(--color-7);
+        position: absolute;
+        left: 50%;
+        bottom: -6px;
+        transform: translateX(-50%);
+    }
+    .kures_day_table_details .table tr td + td {
+        border-left: 1px solid var(--color-4);
+    }
+    .kures_day_table_details .table tbody tr td:nth-child(2){
+        border-radius: 0 45px 45px 0;
+    }
+    .kurse_first_title_section ul li a{
+        height: 40px;
+        background-color: rgba(255, 255, 255, 0.21);
+    }
+    .kurse_first_title_section ul li a.active{
+        background-color: var(--color-2);
+        color: var(--color-1);
+    }
+    .kurse_first_title_section ul li:last-child{
+        display: none;
+    }
+    .kurse_first_title_section ul li + li{
+        margin-left: 0px;
+    }
+    .kurse_first_title_section ul li{
+        margin-right: 15px;
+    }
+    .kurs_table_btn{
+        flex-wrap: wrap;
+    }
+    .kurs_table_btn .common-large-btn.krse_btn{
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .kurse_innser_slider {
+        margin-top: 20px;
+    }
+    .kurs_slider_section{
+        padding-top: 25px;
+    }
+    .kurs_page .praimary_bg_color{
+        padding-top: 0px;
+    }
+    .kurs_table_section{
+        padding-bottom: 90px;
+    }
+    .kurs_page .kurs_slider_section .ihr-top-shape-block svg path {
+        fill: var(--color-1);
+    }
+    .kurs_slider_section{
+        background-color: var(--color-1);
+    }
+
+    .kurs_page .kurs_slider_section .common_inner_section_title svg .mobile_shape {
+        fill: var(--color-1);
+    }
+    .kurse_innser_slider .item{
+        background-color: var(--color-5);
+        padding: 30px;
+    }
+    .kurse_innser_slider{
+        padding: 0 25px;
+    }
+    .kurse_innser_slider .owl-carousel .owl-nav{
+        margin-top: 0px;
+    }
+    .kurs_slider_section .common_inner_section_title {
+        padding-left: 45px;
+    }
+    .kurse_innser_slider .moreless-button span {
+        font-size: 18px;
+    }
+    .kurs_left_details p {
+        font-size: 16px;
+    }
+    .kurse_slider_btn .common-large-btn{
+        min-width: unset;
+        max-width: 280px;
+    }
+
+    .Personlich_section .ruckuf_inner_section .desktop_block{
+        display: none;
+    }
+    .Personlich_section .ruckuf_inner_section p.mobile_block{
+        font-weight: bold;
+        font-size: 18px;
+    }
+    .Personlich_section {
+        bottom: -60px;
+    }
+    .Personlich_section .common-large-btn{
+        padding: 12px 13px;
+    }
+    .kurs_page .footer-circle-2 {
+        top: 50px;
+    }
+    .kurs_page .footer-circle-4 {
+        top: 120px;
+    }
+    /*-------------- Kurs page Css End -------------*/
+
+    /*-------------- Services page Css Start -------------*/
+    .service_page .common_section_inner_title p{
+        margin-bottom: 15px;
+    }
+    .service_left_img{
+        padding: 0 25px;
+    }
+    .inner_common_banner .service_blog_section .owl-carousel .owl-nav .owl-next{
+        right: -11px;
+        top: 36%;
+    }
+    .inner_common_banner .service_blog_section .owl-carousel .owl-nav .owl-prev{
+        left: -11px;
+        top: 36%;
+    }
+    .service_blog_slider .owl-nav{
+        margin: 0px;
+    }
+    .services_mob_btn {
+        margin-top: 20px;
+    }
+
+    /*----------- Inner Wir Empfehlen Section Start -------------*/
+    .inner_wir_image_col, .inner_wir_contnet_col {
+        width: 100%;
+    }
+    .inner_wir_image:after, .inner_wir_top_shape, .inner_wir_bottom_shape, .inner_wir_contnet_box .inner_title_wir, .inner_wir_contnet_box .common_section_desc {
+        display: none;
+    }
+    .inner_wir_contnet_box {
+        margin-left: 0;
+        padding: 20px;
+    }
+    .inner_wir_contnet_col {
+        padding: 10px 0 20px;
+    }
+    .wir_inner_product {
+        object-position: center;
+        height: 250px;
+        width: 100%;
+    }
+    .mobile_inner-wir-title {
+        display: block;
+        margin-bottom: 25px;
+        padding-top: 50px;
+    }
+    .inner_title_wir h3 {
+        font-size: 30px;
+        margin-bottom: 0;
+    }
+    .mobile_inner-wir-title .common_section_desc p{
+        font-size: 16px;
+        font-weight: 400;
+        -webkit-text-stroke-width: 0px;
+
+    }
+    .inner_point_wir p {
+        -webkit-text-stroke-width: 0px;
+        font-weight: 400;
+        font-size: 14px;
+        max-width: 210px;
+    }
+    .inner_point_wir p:after {
+        top: 6px;
+    }
+    .inner_btn_wir {
+        padding: 20px 15px 0;
+    }
+    .inner_wir_image img, .inner_wir_empfehlen_box, .inner_wir_empfehlen_box:after {
+        border-radius: 25px;
+    }
+    .inner_wir_empfehlen_section{
+        padding-top: 40px;
+    }
+    /*----------- Inner Wir Empfehlen Section Close -------------*/
+    /*-------------- Services page Css End -------------*/
+
+    /*----------- studio page Start -------------*/
+    .gesundheits_right_img{
+        padding-left: 0px;
+    }
+    .gesundheits_main_img {
+        width: 385px;
+    }
+    .gesundheits_iiner_img {
+        margin-right: 0;
+    }
+    .gesundheits_bottom_img {
+        max-width: 270px;
+        right: -8px;
+    }
+    .gesundheits_details .common_inner_section_title h2 {
+        font-size: 36px;
+    }
+
+    .ruckruf_section, .unser_team_section {
+        padding-top: 50px;
+    }
+    .unser_team_inner_section {
+        margin-top: 25px;
+    }
+    .unser_team_inner_section{
+        background-color: unset;
+    }
+    .team_member_info h4:after{
+        background-color: var(--color-13);
+    }
+    .team_member_info p {
+        font-size: 16px;
+    }
+    .team_member_info h4 {
+        font-size: 16px;
+        margin: 15px 0 8px;
+        padding: 10px 15px;
+    }
+    .unser_team_inner_section .row{
+        margin: 0px;
+    }
+    .unser_team_inner_section .col{
+        padding: 0px;
+    }
+    .unser_team_inner_section .owl-nav{
+        margin-top: 0px;
+    }
+    .inner_common_banner .unser_team_inner_section .owl-nav .owl-next{
+        right: -25px;
+    }
+    .inner_common_banner .unser_team_inner_section .owl-nav .owl-prev{
+        left: -25px;
+    }
+    .unser_team_inner_section{
+        padding: 0 15px;
+    }
+    .unser_team_inner_section .owl-stage{
+        /*padding-left: 0px !important;*/
+    }
+
+
+    .gellerie_section .gellerie_img{
+        display: none;
+    }
+    .gellerie_slider_pad{
+        padding: 40px 35px 0;
+    }
+    .gellerie_slider .owl-carousel .owl-nav .owl-next{
+        right: -33px;
+    }
+    .gellerie_slider .owl-carousel .owl-nav .owl-prev{
+        left: -33px;
+    }
+    .gellerie_slider .owl-theme .owl-nav{
+        margin-top: 0px;
+    }
+    .studio_page .ruckuf_inner_section h2 {
+        font-size: 32px;
+    }
+    .studio_page .ruckruf_section .studio_ruckuf_section span{
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .gellerie_slider .item img {
+        border-radius: 20px;
+    }
+    .studio_page .praimary_bg_color {
+        padding-top: 40px;
+    }
+    .unser_team_inner_section{
+        max-width: 300px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+    .unser_team_inner_section .owl-carousel .owl-stage-outer{
+        overflow: visible;
+    }
+    .unser_team_slider.owl-carousel{
+        position: unset;
+    }
+    .unser_team_section{
+        position: relative;
+    }
+    .inner_common_banner .unser_team_inner_section .owl-nav .owl-prev {
+        left: 8px;
+    }
+    .inner_common_banner .unser_team_inner_section .owl-nav .owl-next {
+        right: 8px;
+    }
+    .unser_team_inner_section{
+        margin-top: 30px;
+    }
+    .unser_team_slider .owl-stage .owl-item{
+        opacity: 0.5;
+    }
+    .unser_team_slider .owl-stage .owl-item.active{
+        opacity: unset;
+    }
+    .contact_page .footer-wrapper,
+    .service_page .footer-wrapper {
+        padding-top: 50px;
+    }
+    .news_page .footer-wrapper{
+        padding-top: 100px;
+    }
+    .kurs_page .footer-wrapper{
+        padding-top: 140px;
+    }
+    .studio_page .footer-wrapper {
+        padding-top: 145px;
+    }
+    .studio_page .ruckuf_inner_section {
+        margin-bottom: -20px;
+    }
+    /*----------- studio page End -------------*/
+    .kurs_page .home-circle-shape1 {
+        top: 180px;
+    }
+    .kurs_page .home-circle-shape4 {
+        width: 30px;
+        height: 30px;
+        bottom: unset;
+        top: 37%;
+        right: unset;
+        left: 65px;
+    }
+    .kurs_page .inner_common_banner .home-circle-shape2 {
+        top: 15%;
+        left: 15px;
+    }
+    .studio_page .inner_common_banner .home-circle-shape4 {
+        top: 80px;
+        left: 130px;
+        width: 30px;
+        height: 30px;
+    }
+    .studio_page .inner_common_banner .home-circle-shape5{
+        bottom: 80px;
+    }
+    .news_page .inner_common_banner .home-circle-shape4, .contact_page .inner_common_banner .home-circle-shape4  {
+        width: 30px;
+        height: 30px;
+        right: unset;
+        left: 70px;
+        top: 40%;
+    }
+    .contact_page .inner_common_banner .home-circle-shape4{
+        right: 70px;
+        left: unset;
+        top: 42%;
+    }
+
+
+}
+
+@media screen and (max-width: 480px) {
+    .footer-fixed-icon {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .menu-nav {
+        max-width: 75%;
+    }
+    .ihr-gesundheits-image-hold{
+        max-width: 320px;
+        min-height: 320px;
+    }
+    .ihr-gesundheits-img-shape{
+        max-width: 255px;
+    }
+    .mitglied-werden-image-block{
+        margin-left: -50px;
+    }
+    .mitglied-werden-small-img{
+        max-width: 145px;
+        right: -40px;
+    }
+    .spinner-img {
+        padding: 25px;
+    }
+    .wheel--box-inner svg{
+        height: 40px;
+        right: 20px;
+        top: -10px;
+    }
+    .wir-empfehlen-seller-name p{
+        font-size: 15px;
+    }
+    .product-name h4, .we-price-desc p{
+        font-size: 16px;
+    }
+    .start-wrap span:after, .start-wrap span{
+        font-size: 10px;
+    }
+    .wir-product-content-col .common-large-btn{
+        font-size: 16px;
+        padding: 4px;
+    }
+    .wir-product-col {
+        width: 115px;
+    }
+    .wir-product-content-col {
+        width: calc(100% - 115px);
+        padding-left: 10px;
+    }
+    /*-------------- Conrtact page Css Start -------------*/
+    .common_section_inner_title p{
+        /*font-size: 36px;*/
+        max-width: 320px;
+    }
+    .contact_banner {
+        height: 250px;
+    }
+
+    .common_inner_section_title h2 {
+        font-size: 30px;
+    }
+
+    .form_group .round label:before{
+        top: 2px;
+        left: 5px;
+    }
+    .contact_sub_title {
+        font-size: 16px;
+    }
+    .form_group .round label:after{
+        top: 8.3px;
+        left: 10px;
+    }
+    .email_message_section textarea{
+        border-radius: 15px;
+        height: 200px;
+    }
+    .kurse_slider_img img {
+        border-radius: 15px;
+    }
+    .service_left_img_section .common_inner_section_title h2 {
+        font-size: 30px;
+    }
+    /*-------------- Conrtact page Css End -------------*/
+    /*----------- Inner Wir Empfehlen Section Start -------------*/
+    .inner_wir_contnet_box{
+        padding: 20px 0px;
+    }
+    .inner_wir_image {
+        padding: 0 30px;
+    }
+    .inner_wir_empfehlen_box:after{
+        left: 10px;
+        right: 10px;
+        top: 10px;
+        bottom: 10px;
+    }
+    .discount_bg{
+        margin: 0 auto;
+    }
+    /*----------- Inner Wir Empfehlen Section Close -------------*/
+
+    /*----------- Studio page Start -------------*/
+    .gesundheits_iiner_img, .gesundheits_iiner_img img {
+        width: 270px;
+        height: 270px;
+    }
+    .gesundheits_bottom_img {
+        max-width: 225px;
+        right: 15px;
+    }
+    .gesundheits_main_img {
+        width: 360px;
+    }
+    .gellerie_slider_pad {
+        padding: 35px 35px 0;
+    }
+
+    .unser_team_inner_section{
+        width: 250px;
+    }
+    .services_banner_contain p{
+        font-size: 16px;
+    }
+    /*----------- Studio page Close -------------*/
+
+}
+
+@media screen and (max-width: 430px) {}
+
+@media screen and (max-width: 400px) {
+    .menu-nav {
+        max-width: 80%;
+    }
+    .ihr-gesundheits-section {
+        margin-top: 10px;
+    }
+    .bewertungen-box .common-desc p{
+        max-width: 300px;
+    }
+    .wheel--button a {
+        width: 100px;
+        height: 100px;
+        font-size: 16px;
+    }
+    .spinner-img {
+        padding: 20px;
+    }
+    .schon-gewusst-block .online-analyse-image-block {
+        max-width: 260px;
+    }
+    .schon-gewusst-block .online-analyse-img:after{
+        max-width: 180px;
+        height: 180px;
+    }
+    .schon-gewusst-top-shape{
+        margin-bottom: -2px;
+    }
+    .dein-erster-title h2 {
+        font-size: 20px;
+    }
+    .dein-erster-sub-title h3 {
+        font-size: 16px;
+    }
+    .form-details {
+        padding-top: 20px;
+    }
+    .dein-erster-circle-shape {
+        right: 23px;
+        width: 50px;
+        height: 50px;
+        top: -10px;
+    }
+    .dein-erster-circle-shape svg {
+        margin-right: -20px;
+        margin-bottom: -10px;
+    }
+    /*-------------- Conrtact page Css Start -------------*/
+   /* .common_section_inner_title p{
+        font-size: 30px;
+    }*/
+
+    .day_name p {
+        font-size: 16px;
+    }
+    .day_name .vertical_line {
+        margin: 0px 10px;
+        height: 18px;
+    }
+    .sun_and_time_contain .sun_icon p,
+    .sun_and_time_contain .moon_icon p {
+        font-size: 18px;
+    }
+    .sun_icon svg {
+        width: 22px;
+        height: 22px;
+    }
+    .moon_icon svg {
+        width: 20px;
+        height: 21px;
+    }
+    .sun_and_time_contain .line {
+        width: 15px;
+    }
+    /*-------------- Conrtact page Css End -------------*/
+
+    /*-------------- News page Css Start -------------*/
+    .news_blog_img img{
+        border-radius: 10px;
+    }
+    .new_contain_left {
+        padding-top: 20px;
+    }
+    .news_mobile_slider {
+        padding: 0 20px;
+    }
+    .news_blog_img{
+        height: 220px;
+    }
+    .inner_common_banner .news_mobile_slider .owl-nav .owl-prev,
+    .inner_common_banner .news_mobile_slider .owl-nav .owl-next{
+        top: 110px;
+        left: -13px;
+    }
+    .inner_common_banner .news_mobile_slider .owl-nav .owl-next{
+        left: unset;
+        right: -13px;
+    }
+    .news_details {
+        margin: 12px 0px;
+    }
+
+    .ruckuf_inner_section {
+        padding: 20px 20px 20px;
+    }
+    .hand_mens {
+        width: 50px;
+        height: 50px;
+        right: 20px;
+        top: -10px;
+    }
+    .hand_mens svg {
+        max-width: 86%;
+        margin-right: -9px;
+        margin-top: -85px;
+    }
+    .ruckuf_inner_section h2 {
+        font-size: 22px;
+    }
+    .ruckuf_inner_section p{
+        margin: 7px 0 13px;
+    }
+    .ruckruf_section {
+        padding-top: 40px;
+    }
+    /*-------------- News page Css End -------------*/
+
+    /*-------------- kurse page Css End -------------*/
+    .kurse_first_title_section ul li a{
+        padding: 8px 15px;
+    }
+    .mobile_day_list li a{
+        font-size: 16px;
+        width: 40px;
+        height: 40px;
+    }
+    .kures_day_table_details .table tr {
+        height: 40px;
+    }
+    .kurs_table_btn {
+        margin-top: 22px;
+    }
+    .kurse_inner_table_section {
+        margin-top: 15px;
+    }
+
+    .kurse_slider_details h3 {
+        font-size: 20px;
+    }
+    .mittler_lines span {
+        width: 14px;
+        height: 7px;
+        border-radius: 2px;
+    }
+    .kurse_minit_details p {
+        font-size: 18px;
+    }
+    .kurse_minit_details p {
+        margin-left: -4px;
+    }
+    .kurse_slider_img {
+        height: 130px;
+    }
+    .Personlich_section{
+        margin-top: -25px;
+    }
+    .Personlich_section .ruckuf_inner_section p.mobile_block{
+        font-size: 16px;
+    }
+    /*-------------- kurse page Css End -------------*/
+
+    /*-------------- services page Css End -------------*/
+    .service_left_img{
+        height: 220px;
+    }
+    .service_left_img img{
+        border-radius: 10px;
+    }
+    .service_left_img{
+        margin: 25px 0px;
+    }
+    .inner_common_banner .service_blog_section .owl-carousel .owl-nav .owl-next{
+        top: 28%;
+        right: -15px;
+    }
+    .inner_common_banner .service_blog_section .owl-carousel .owl-nav .owl-prev{
+        top: 28%;
+        left: -15px;
+    }
+    .service_left_img {
+        padding: 0 20px;
+    }
+    /*-------------- services page Css End -------------*/
+
+    /*----------- Inner Wir Empfehlen Section Start -------------*/
+    .inner_wir_empfehlen_box:after {
+        left: 0px;
+        right: 0px;
+        top: 0px;
+        bottom: 0px;
+    }
+    .mobile_inner-wir-title{
+        padding-top: 35px;
+    }
+    .wir_inner_product{
+        height: 150px;
+    }
+    .inner_wir_image {
+        padding: 0 15px;
+    }
+    .inner_point_wir p{
+        max-width: 185px;
+    }
+
+    /*----------- Inner Wir Empfehlen Section Close -------------*/
+
+    .gesundheits_details .common_inner_section_title h2 {
+        font-size: 30px;
+    }
+    .gesundheits_info_inner p{
+        text-align: center;
+    }
+    .gellerie_slider .owl-carousel .owl-nav .owl-prev,
+    .gellerie_slider .owl-carousel .owl-nav .owl-next{
+        top: 43%;
+    }
+    .studio_page .ruckuf_inner_section h2 {
+        font-size: 24px;
+    }
+    .studio_page .ruckuf_inner_section span{
+        margin: 5px 0 10px;
+    }
+    .unser_team_inner_section{
+        width: 230px;
+    }
+    .unser_team_inner_section .owl-carousel .owl-stage-outer {
+        overflow: hidden;
+    }
+    .unser_team_inner_section .owl-theme .owl-dots .owl-dot span{
+        margin: 5px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .day_name .vertical_line {
+        margin: 0px 8px;
+        height: 16px;
+    }
+    .sun_and_time_contain .sun_icon p,
+    .sun_and_time_contain .moon_icon p {
+        font-size: 16px;
+    }
+    .sun_and_time_contain .moon_icon p {
+        margin-left: 10px;
+    }
+    .sun_and_time_contain .line {
+        margin: 0px 10px;
+    }
+    .sun_and_time_contain .sun_icon sup,
+    .sun_and_time_contain .moon_icon sup {
+        font-size: 12px;
+    }
+
+    .sun_icon p {
+        margin-left: 10px;
+    }
+    .sun_icon svg {
+        width: 18px;
+        height: 18px;
+    }
+    .moon_icon svg {
+        width: 16px;
+        height: 18px;
+    }
+    .inner_common_banner .common-section-title-shape {
+        top: -45px;
+        left: -11px;
+        max-width: 32px;
+    }
+
+    .kurse_innser_slider .item{
+        padding: 15px;
+    }
+    .kurse_innser_slider {
+        padding: 0 20px;
+    }
+    .gesundheits_bottom_img {
+        max-width: 201px;
+        right: -9px;
+    }
+    .gesundheits_main_img {
+        width: 290px;
+    }
+    .ihr-top-shape-block {
+        bottom: 99.9%;
+    }
+    .praimary_bg_color .ihr-top-shape-block{
+        bottom: 99.5%;
+    }
+    .service_page .ihr-top-shape-block,
+    .studio_page .ihr-top-shape-block.ihr_new_shape,
+    .news_page .ihr-top-shape-block.ihr_new_shape,
+    .studio_page .ihr_new_shape .ihr-top-shape-block{
+        bottom: 99.8%;
+    }
+    .contact_page .ihr-top-shape-block.ihr_new_shape{
+        bottom: 99.7%;
+    }
+
+}
+
+@media screen and (max-width: 367px) {
+    .menu-over {
+        max-height: 370px;
+    }
+    .ihr-gesundheits-image-hold {
+        max-width: 280px;
+        min-height: 280px;
+    }
+    .ihr-gesundheits-img-shape {
+        max-width: 225px;
+        bottom: -4px;
+    }
+    .ihr-top-shape-block, .schon-gewusst-top-shape{
+        bottom: 99.7%;
+    }
+    .bewertungen-box .common-desc p{
+        max-width: 250px;
+    }
+    .online-analyse-image-block {
+        padding-left: 35px;
+    }
+    .online-analyse-img{
+        max-width: 220px;
+    }
+    .online-analyse-img:after{
+        max-width: 150px;
+        height: 150px;
+    }
+    .wie-fit-sind-image-block {
+        max-width: 285px;
+    }
+    .wit-sind-img:after {
+        max-width: 285px;
+        height: 285px;
+    }
+    .spinner-img {
+        padding: 15px;
+    }
+    .schon-gewusst-top-shape{
+        margin-bottom: 0px;
+    }
+    .footer-fixed-icon ul li a img {
+        width: 25px;
+        height: 25px;
+    }
+    .footer-fixed-icon.show {
+        height: 75px;
+    }
+    .contact_page  .common_section_inner_title p {
+        font-size: 45px;
+    }
+
+}
+
